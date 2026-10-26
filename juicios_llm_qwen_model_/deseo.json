@@ -1,0 +1,175 @@
+{
+  "palabra": "deseo",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Verbo, expresar un anhelo o voluntad de que algo suceda o que alguien tenga algo."
+    },
+    {
+      "id": "s2",
+      "glosa": "Sustantivo, el anhelo o voluntad misma."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 5853,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 3700,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 37092,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 49226,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 22381,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 34233,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60221,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 61330,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55746,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71860,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 73444,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61704,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21596,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 66855,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25735,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57277,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6106,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 29228,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 31915,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 53978,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 18210,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 37131,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35464,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9386,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8023,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6049,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62929,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 74261,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35456,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 74156,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 22020,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 45688,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57674,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76883,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28598,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 23271,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54501,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 15937,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12913,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30911,
+      "sentido": "s1"
+    }
+  ]
+}

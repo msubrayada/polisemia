@@ -1,0 +1,187 @@
+{
+  "palabra": "temporada",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Temporada de una serie de televisión o programa (incluye series de TV, programas de radio, etc.)."
+    },
+    {
+      "id": "s2",
+      "glosa": "Temporada como estación del año o período festivo asociado a una estación (incluye moda, cosechas, festividades)."
+    },
+    {
+      "id": "s3",
+      "glosa": "Temporada de deportes (período de competición deportiva)."
+    },
+    {
+      "id": "s4",
+      "glosa": "Temporada baja (período de baja actividad en deportes o programas)."
+    },
+    {
+      "id": "s5",
+      "glosa": "Temporada de cosecha o producción agrícola."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 16745,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55541,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 19586,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 72319,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 28939,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 29859,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 29303,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 51629,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 1315,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 72641,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 50543,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61605,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 72559,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 18390,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62515,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28990,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55569,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 55702,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 16720,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 69190,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 1058,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 7488,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 6094,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 10772,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 51478,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 26210,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 4791,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 37229,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42461,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 29679,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 50779,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 31641,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 41770,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67760,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 3019,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 54544,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67958,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10924,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8651,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39228,
+      "sentido": "s2"
+    }
+  ]
+}

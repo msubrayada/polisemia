@@ -1,0 +1,159 @@
+{
+  "palabra": "municipio",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Unidad administrativa local con gobierno propio (ayuntamiento, alcalde, etc.)"
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 9323,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21292,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62741,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12151,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8724,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55525,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 77633,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 44249,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63217,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10817,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 66944,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 16065,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55439,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 45208,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 45745,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 31739,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 49433,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9128,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28060,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27280,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75993,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76766,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 74219,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54819,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28057,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 37277,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 26676,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 11983,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59363,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63379,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12266,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7066,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 17350,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 70239,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62014,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39535,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 70324,
+      "sentido": "s1"
+    }
+  ]
+}

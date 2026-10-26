@@ -1,0 +1,179 @@
+{
+  "palabra": "condiciones",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Condiciones como circunstancias o situaciones que afectan a algo o alguien."
+    },
+    {
+      "id": "s2",
+      "glosa": "Condiciones como requisitos, términos o condiciones que deben cumplirse para algo."
+    },
+    {
+      "id": "s3",
+      "glosa": "Condiciones como estado o estado de algo, especialmente en términos de calidad o funcionalidad."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 27125,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 53308,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52249,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 43467,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39283,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 73844,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 78152,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39363,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13194,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 1180,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 18142,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27973,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 70694,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 74739,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 62682,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6181,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 65566,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 30553,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 14712,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 23699,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 75418,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 44073,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21583,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62560,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39263,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 56996,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 16198,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 38145,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 36091,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 12890,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67628,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 14518,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 77395,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63110,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25039,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63975,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7533,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 51986,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 45380,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 36016,
+      "sentido": "s3"
+    }
+  ]
+}

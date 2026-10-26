@@ -1,0 +1,187 @@
+{
+  "palabra": "completa",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Total, sin falta; que abarca todo sin omisiones."
+    },
+    {
+      "id": "s2",
+      "glosa": "Terminado, listo; que ha sido concluido o finalizado."
+    },
+    {
+      "id": "s3",
+      "glosa": "En buen estado físico; que no tiene defectos o lesiones."
+    },
+    {
+      "id": "s4",
+      "glosa": "En buen estado personal/emocional; que se siente integral o satisfecha."
+    },
+    {
+      "id": "s5",
+      "glosa": "Satisfacción total; que alcanza el grado máximo de satisfacción."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 52276,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8121,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 3229,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57258,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 42297,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 44078,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21345,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 31534,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 65699,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 11623,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52533,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52911,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 418,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 55680,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 14459,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 44595,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 37802,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 46540,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76754,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 29021,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 11726,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27971,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43355,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 19079,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 15224,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21552,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 31877,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 50532,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12917,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30557,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61180,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 62039,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 6296,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 23393,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 37234,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 44126,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 19228,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28507,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 4090,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35843,
+      "sentido": "s1"
+    }
+  ]
+}

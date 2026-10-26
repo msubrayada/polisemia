@@ -1,0 +1,175 @@
+{
+  "palabra": "saltillo",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Se refiere a la ciudad de Saltillo, capital del estado de Coahuila, México."
+    },
+    {
+      "id": "s2",
+      "glosa": "Se refiere a un nombre propio de un gimnasio o centro de entrenamiento, como 'Prince Saltillo 400'."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 16598,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 36018,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 36051,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55826,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7835,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35669,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 45586,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63438,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 26275,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39101,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38003,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52962,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9375,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57090,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59639,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9726,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 53661,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39271,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 74818,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 2274,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20900,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35860,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 51369,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68603,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 18987,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35727,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76110,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60166,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 34287,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56653,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12858,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 15367,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52695,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 17938,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 74912,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76495,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55525,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 24692,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 53986,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 50020,
+      "sentido": "s1"
+    }
+  ]
+}

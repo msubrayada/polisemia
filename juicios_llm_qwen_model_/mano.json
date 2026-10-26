@@ -1,0 +1,211 @@
+{
+  "palabra": "mano",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Órgano anatómico (la parte del cuerpo que se usa para agarrar, tocar, etc.)"
+    },
+    {
+      "id": "s2",
+      "glosa": "Colaboración o asociación (expresiones como 'de la mano de', 'va de la mano con')"
+    },
+    {
+      "id": "s3",
+      "glosa": "Pelea o conflicto (como en 'mano mano' o 'no fue mano')"
+    },
+    {
+      "id": "s4",
+      "glosa": "Ayuda o apoyo (como en 'te doy la mano', 'échame la mano')"
+    },
+    {
+      "id": "s5",
+      "glosa": "Intervención o manipulación (como en 'a mano limpia')"
+    },
+    {
+      "id": "s6",
+      "glosa": "Control o influencia (como en 'la mano que le mece la cuna')"
+    },
+    {
+      "id": "s7",
+      "glosa": "Habilidad o destreza (como en 'tener mano izquierda')"
+    },
+    {
+      "id": "s8",
+      "glosa": "Experiencia directa (como en 'de primera mano')"
+    },
+    {
+      "id": "s9",
+      "glosa": "Mano en juegos de cartas (como en 'mano larga')"
+    },
+    {
+      "id": "s10",
+      "glosa": "Lectura de la mano (tarot) (como en 'leyeron las cartas y la mano')"
+    },
+    {
+      "id": "s11",
+      "glosa": "Trabajadores (como en 'mano de obra')"
+    },
+    {
+      "id": "s12",
+      "glosa": "Hecho con las manos (como en 'hechos a mano')"
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 49391,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 31982,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 36508,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62526,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13196,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 75752,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 38559,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30848,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 27484,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 23890,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 23219,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20770,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69153,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 62478,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63542,
+      "sentido": "s6"
+    },
+    {
+      "id_tweet": 9998,
+      "sentido": "s9"
+    },
+    {
+      "id_tweet": 4060,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 31865,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 32135,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7787,
+      "sentido": "s8"
+    },
+    {
+      "id_tweet": 62113,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 76390,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 56380,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61406,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43305,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 31111,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 3486,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64245,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48680,
+      "sentido": "s12"
+    },
+    {
+      "id_tweet": 37157,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 64062,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 19053,
+      "sentido": "s10"
+    },
+    {
+      "id_tweet": 6334,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32797,
+      "sentido": "s11"
+    },
+    {
+      "id_tweet": 31538,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39739,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 19065,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30318,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 16608,
+      "sentido": "s9"
+    }
+  ]
+}

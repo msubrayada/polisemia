@@ -1,0 +1,187 @@
+{
+  "palabra": "trabajando",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Actividad laboral o profesión"
+    },
+    {
+      "id": "s2",
+      "glosa": "Esfuerzo o dedicación hacia un objetivo"
+    },
+    {
+      "id": "s3",
+      "glosa": "Ubicación o estado de estar en el trabajo"
+    },
+    {
+      "id": "s4",
+      "glosa": "Hacer trabajar a alguien"
+    },
+    {
+      "id": "s5",
+      "glosa": "Colaborar con alguien"
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 62747,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 9195,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 28790,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 36856,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64715,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 5512,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 37894,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 53308,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 9615,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 58959,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 65533,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12039,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60951,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 78259,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 48044,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75002,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 63988,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 73554,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32805,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28929,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 47296,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 65029,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 39582,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38162,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 27402,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 10211,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 36699,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 9472,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 55313,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 71124,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60514,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 27238,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 27214,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 45929,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 58038,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 37647,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 54649,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 64737,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 18159,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 43192,
+      "sentido": "s2"
+    }
+  ]
+}

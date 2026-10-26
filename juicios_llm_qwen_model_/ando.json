@@ -1,0 +1,187 @@
+{
+  "palabra": "ando",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Estado o situación actual (cómo se siente o está la persona)."
+    },
+    {
+      "id": "s2",
+      "glosa": "Acción en progreso (realizando una acción)."
+    },
+    {
+      "id": "s3",
+      "glosa": "Ubicación (dónde se encuentra la persona)."
+    },
+    {
+      "id": "s4",
+      "glosa": "Ocupación o actividad (trabajando o realizando una actividad como trabajo)."
+    },
+    {
+      "id": "s5",
+      "glosa": "Proceso de cambio (en proceso de cambiar de estado)."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 56178,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27662,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 59718,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 2369,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 24481,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54060,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 75207,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48491,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 49814,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25817,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 44580,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75335,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76859,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 34632,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63651,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 36787,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35560,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 35290,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7200,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 1775,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 21180,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 43889,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12250,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68873,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 24643,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 77523,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 29011,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30120,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 15881,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 75251,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 58777,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 51438,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60566,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 43285,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 73203,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43245,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 14112,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8801,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39807,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 40461,
+      "sentido": "s1"
+    }
+  ]
+}

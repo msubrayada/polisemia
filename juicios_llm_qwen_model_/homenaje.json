@@ -1,0 +1,175 @@
+{
+  "palabra": "homenaje",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Tributo o reconocimiento a una persona, grupo, evento, concepto, etc., expresado a través de actos, palabras, ceremonias, etc."
+    },
+    {
+      "id": "s2",
+      "glosa": "Servicio funerario o plan de velorio para honrar a un fallecido."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 44919,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67685,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 72426,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25227,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 69839,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 4916,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 37860,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 77695,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 3286,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57030,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30603,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 11371,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55423,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7965,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60231,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 3867,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63320,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 50860,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69927,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 58842,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 74399,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 34900,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20135,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35154,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56091,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63242,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54837,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25191,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 1321,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71506,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55790,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56333,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64786,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55953,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71468,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 2274,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 46154,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 2846,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67668,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62148,
+      "sentido": "s1"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "palabra": "gobernador",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Funcionario público que gobierna un estado o entidad federativa en México, o en general, el cargo de gobernador."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 39338,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5588,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8356,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 66047,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56913,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 51190,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 29297,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 70392,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 70920,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 14268,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27406,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 74999,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69102,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 31865,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76095,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 73215,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 18248,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64340,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 33700,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 29214,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 53896,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5978,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63688,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38472,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 26405,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 22052,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35403,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27960,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54540,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57679,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 3640,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6299,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 18086,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 31078,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64194,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42071,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59039,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61070,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68399,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 31205,
+      "sentido": "s1"
+    }
+  ]
+}

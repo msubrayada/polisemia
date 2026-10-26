@@ -1,0 +1,171 @@
+{
+  "palabra": "personal",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Personal como sustantivo que se refiere a los empleados o trabajadores de una organización."
+    },
+    {
+      "id": "s2",
+      "glosa": "Personal como adjetivo que se refiere a algo que concierne a una persona, como su higiene, espacio, actitud, opinión, uso, etc."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 30048,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 41026,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 78202,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40506,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38556,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68177,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7493,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 73487,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 11360,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 14963,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 29974,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75280,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35467,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7797,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 70379,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76061,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25312,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69387,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40593,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28367,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5865,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 49987,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 64986,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 19284,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 9903,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 33734,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 49389,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 51926,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 49801,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 24872,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 21267,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 37741,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 7560,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 58965,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 39530,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 28851,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 56721,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 62868,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 24941,
+      "sentido": "s2"
+    }
+  ]
+}

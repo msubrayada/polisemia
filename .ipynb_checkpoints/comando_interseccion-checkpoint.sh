@@ -1,0 +1,1 @@
+>python interseccion_vocabulario.py --files mex_state:output/words_mex_state.csv mex_large:output/words_mex_large.csv beto:output/words_beto.csv bertin:output/words_bertin.csv robertuito:output/words_robertuito.csv  --threshold 5  --out output/interseccion_vocabulario.csv

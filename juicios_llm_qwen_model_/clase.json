@@ -1,0 +1,183 @@
+{
+  "palabra": "clase",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Clase educativa (sesión de enseñanza, lección o curso)."
+    },
+    {
+      "id": "s2",
+      "glosa": "Clase social (grupo socioeconómico)."
+    },
+    {
+      "id": "s3",
+      "glosa": "Clase como tipo o categoría (tipo o categoría de algo)."
+    },
+    {
+      "id": "s4",
+      "glosa": "Clase como nivel de calidad o categoría (nivel de calidad o categoría)."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 23125,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57166,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 32743,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59464,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48188,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 63178,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8302,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 10183,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8346,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6052,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 33449,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48074,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 29640,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 29109,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64512,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 14353,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60076,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 30141,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 46544,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30126,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68430,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56617,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 49631,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 42251,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 29775,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 49223,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 12494,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68946,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 28225,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59142,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 48438,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 70585,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 11156,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 40237,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71428,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 3927,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 65857,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59383,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 70279,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 35558,
+      "sentido": "s1"
+    }
+  ]
+}

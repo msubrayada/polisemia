@@ -1,0 +1,318 @@
+--------------------------------------------------
+Palabra: saltillo
+
+--- cluster -1 (3 ocurrencias) ---
+NL _GEO _USR El 26 a Saltillo jata.
+
+Zacatecas _GEO _USR saludos desde Saltillo homeofice también.#MLBEnTUDN _URL
+
+Zacatecas _GEO 13 de Noviembre nos vemos en Saltillo Más informes en el flayer 👇🏻 _USR #rapmexicano #rapsaltillo #saltillocoahuila #saltillo #coahuila #reckone #sadbeik #gorillazgang en Saltillo, Coahuila _URL
+
+
+--- cluster 0 (6 ocurrencias) ---
+Zacatecas _GEO Sostiene Pamela Reyes práctica en la Selección Mexicana de Flag Football | Periódico Zócalo | Noticias de Saltillo, Piedras Negras, Monclova, Acuña _URL
+
+Zacatecas _GEO Representarán a méxico dos arqueros Coahuilenses | Periódico Zócalo | Noticias de Saltillo, Piedras Negras, Monclova, Acuña _URL
+
+Zacatecas _GEO VQueens enjaula a Halconas y se lleva la victoria | Periódico Zócalo | Noticias de Saltillo, Piedras Negras, Monclova, Acuña _URL
+
+Zacatecas _GEO Barren a Espartanos: caen en las 3 últimas visitas | Periódico Zócalo | Noticias de Saltillo, Piedras Negras, Monclova, Acuña _URL
+
+Zacatecas _GEO Saraperos de Saltillo escribirán una nueva historia en la Liga Invernal | Periódico Zócalo | Noticias de Saltillo, Piedras Negras, Monclova, Acuña _URL
+
+
+--- cluster 1 (17 ocurrencias) ---
+NL _GEO Taza blanca Personalizada _USR Recuerdos y regalos personalizados #Personalikate Información por Inbox o DM #articulospersonalizados #Personalizados #Monterrey #Saltillo #SantaCatarina #SanPedro #Guadalupe #SanNicolas #ElBlaBlaShow _URL
+
+Hidalgo _GEO En #Monterrey 23 y 24 Oct. En #Saltillo 25 y 26 Oct . Únicas fechas !!! Reserven su Cita . ✨✨ Con la hermosa _USR _URL
+
+Zacatecas _GEO Ya le informamos esta mañana desde diferentes puntos con mi buen amigo Rusvelt CerPer en 24/7 Noticias por 8.1 #RCGMedia #Saltillo #Coahuila RCG Oficial #Enlaces _URL
+
+Zacatecas _GEO Al aire como todas las tardes en RCG Radio. Ya le presentamos las noticias más relevantes del día. #Saltillo #Coahuila #RCGMedia _URL
+
+Coahuila _GEO #QuesabirriasRdz #LasMejoresQuesabirriasDelNorteDeMéxico sábados y domingos de 9 am a 2 pm o hasta q la olla aguante #Quesabirrias #Saltillo #Coahuila Serapio Aguirre 263 Col. Fco I Madero _URL
+
+
+--- cluster 2 (28 ocurrencias) ---
+Zacatecas _GEO Agradezco la participación de _USR y de Hernán Villarreal, actual Secretario de Movilidad del Gobierno de Nuevo León, los cuales nos ayudarán aportando su experiencia en este importante tema. #Saltillo _URL
+
+Zacatecas _GEO 🚨 Un solitario sujeto asaltó esta tarde una vez más el banco HSBC ubicado en boulevard Nazario Ortiz Garza en la colonia San Isidro. Al momento se desconoce el monto del botín. (Via: Beto Treviño). #Saltillo _URL
+
+Mexico_City _GEO Gracias _USR #loquenecesitasparavolar excelente viaje, programas, shows, cobertura rumbo al mundial de #Qatar2022 sin duda excelente viaje proximp destino mty y fin de semana saltillo _URL
+
+Zacatecas _GEO Nos visita walo de la banda Ms en Bariatria Saltillo _URL
+
+Zacatecas _GEO #BuenDíaMundo #Saltillo Siempre esperando que la vida nos sorprenda... lindo día #QueridosFollowers _URL
+
+
+--- cluster 3 (33 ocurrencias) ---
+Zacatecas _GEO En #Saltillo, el gobernador _USR , acompañado por el titular de la #SIDUM, _USR y el alcalde _USR , Inauguraron la nueva #LíneaVerde. En un esfuerzo conjunto entre estado y municipio se logró la construcción de esta gran obra. #FuerteCoahuilaEs _URL
+
+Coahuila _GEO La paramunicipal Aguas de #Saltillo informó que las obras de perforación de alrededor de seis pozos de agua, que se… _URL
+
+Zacatecas _GEO Así el chubasco en este momento al norte de #Saltillo Extreme sus precauciones. 18:13 hrs. _URL
+
+Zacatecas _GEO Info de 2da dosis para #Saltillo y #Arteaga amigos treintones 🙊🤗 _URL
+
+Coahuila _GEO Alcalde agradece a elementos que atendieron parto en centro de #Saltillo
+
+
+--- cluster 4 (13 ocurrencias) ---
+Zacatecas _GEO Que culero estadio, hasta parece el olímpico de Saltillo 😆
+
+Zacatecas _GEO Que gracioso es ver a los pandillerillos con sus motos tuneadas con focos fosfos y al raz del suelo, tratando de transitar por las calles de Saltillo recién llovido 🤣🤣🤣
+
+NL _GEO Hace 2 años Noviando en el centro de Saltillo _USR 📍Big Juan _URL
+
+Oaxaca _GEO Niño de un año de edad fallece por Covid-19 en Saltillo _URL
+
+Mexico_City _GEO Reportan autoridades de Salud fallecimiento de bebé por COVID en Saltillo _URL
+
+
+--- cluster 5 (14 ocurrencias) ---
+Zacatecas _GEO Hola, rento y vendo casas en Saltillo, Coahuila 😊✨😁😁😁
+
+Zacatecas _GEO Saludos desde la capital del mundo, sucursal del cielo. Obvio: Saltillo, Coah. _URL
+
+Zacatecas _GEO Acaba de publicar una foto en Saltillo, Coahuila _URL
+
+Zacatecas _GEO I'm at Laboratorios Dr. Moreira in Saltillo, Coahuila _URL
+
+Zacatecas _GEO Surviving Zombieland! . #Travel #TravelPhotograpy #TravelMexico #TravelSaltillo #Saltillo #Coahuila #Mexico #MyHomeTown #HomeSweetHome #31DaysOfHalloween #October2021 en Saltillo, Mexico _URL
+
+--------------------------------------------------
+Palabra: lucha
+
+--- cluster -1 (32 ocurrencias) ---
+Mexico_City _GEO _USR Parece ser más seria la lucha anticorrupción de AMLO que sus promesas de abandonar Twitter Don Fede! #NoCierto #SiCierto
+
+Mexico _GEO Que tal amigos muy buenos días. Hoy es el #DíaInternacionalDeLaNiña un día para sensibilizar a toda la sociedad sobre la lucha por los derechos de las niñas en todo el mundo. Lucha que a través de años se ha ido fortaleciendo y cuyo objetivo no debe minimizarse nunca. #FelizLunes _URL
+
+Mexico _GEO El fanatismo político caga. Lamehuevismo disfrazado de adoración revolucionaria. Ni les importa #AMLO, es una lucha de hambrientos de poder. "Lo defiendo muchi, presi. Pd: Sí me sabe que busco ser directo de (esto), ¿cierto?" . . . . #SeVan #AMLOBurlaMundial #GobiernoTerminado _URL
+
+Mexico_City _GEO Grand Prix de Amazonas 2021 CMLL Arena México 🇨🇱 🇲🇽 🇺🇸 🇨🇷 🇯🇵 🇵🇦 #laprimera #thefirstone #haciendohistoria #lucha #luchalibre #prowrestling #wrestling #bjj #jiujitsu #wrestler ##プロレス #stardom #chile #mexico #joshiprowrestling #luchalibremexicana #womenswrestling _URL
+
+Jalisco _GEO _USR Igualmente, lo que dice _USR representa mi sentir, la paridad y la lucha de las mujeres no es botín político.
+
+
+--- cluster 0 (34 ocurrencias) ---
+Mexico_City _GEO Las Niñas también cuentan. En la lucha contra la discriminación y la violencia de género. 🧍🏻‍♀️👩‍👧‍👧👧🏻🧒🏼🧑🏽👩🏼👩🏼‍🦰 #diadelaniña #hazlocomoniña en Xochimilco, Distrito Federal, Mexico _URL
+
+Tlaxcala _GEO 🚺🎀💗🌸#Tlaxcala se suma a la lucha contra el #CáncerDeMama 🎀💗🌸 La gobernadora _USR , encendió la iluminación en color rosa de las Escalinatas de los Héroes en #Tlaxcala, como parte de las actividades de la lucha contra el cáncer de mama. #FavorDeTocar _URL
+
+Sonora _GEO Este mes de la lucha contra el cáncer de mama, te invitamos a auto explorarte. La detección temprana hace la diferencia. #MesRosa #PorqueAmamosHermosillo _URL
+
+Mexico_City _GEO _USR Qué fácil quieren eludir la responsabilidad que tienen en este grave asunto. Queda claro que la lucha contra la corrupción de este gobierno es una farsa, pues el epítome de este mal está en libertad y protegido por las autoridades...
+
+Mexico_City _GEO Ejemplo, en #OctubreRosa mes en el que se visibiliza la lucha contra el cancer de mama, la #Alcaldía no cuenta con 1 solo mastógrafo al 💯 .Entre muchas causas, la principal es de recursos. Es importante el paquete económico de protagonismo a salud pues dependen miles de vidas.
+
+
+--- cluster 1 (51 ocurrencias) ---
+Tlaxcala _GEO Brama se había puesto la máscara y una capa. Era ágil; trepaba rápido el monumento y le hacía llaves de lucha libre a las piernas, la rodilla, el brazo de Cristóbal Colón. La gente alrededor pasó de la indiferencia a la curiosidad.
+
+Mexico_City _GEO #MartesDeArenaMéxico | ¡Comienzan las emociones! Último Dragoncito y Fantasy lograron llevarse la primera lucha de la noche sobre la pareja ruda de Pequeño Olímpico y Pequeño Violencia. Dragoncito no deja de perseguir a Olímpico para una lucha de apuestas. _URL
+
+NL _GEO No se rinde tan fácil, se lucha, se da todo hasta que alguien decide por el y ya no hay nada que hacer.
+
+Mexico_City _GEO Muy agradecido por tus comentarios. La lucha sigue hasta que las cosas cambien!
+
+Mexico _GEO Acaba de publicar una foto en Centro de Alto Rendimiento de Lucha Libre The Crash _URL
+
+
+--- cluster 2 (12 ocurrencias) ---
+Mexico_City _GEO #12DeOctubreNadaQueCelebrar fue ,es y será invasión , saqueo ,muerte y genocidio Hoy los pueblos originarios nada tenemos ,más que la dignidad ,lucha y resistencia ,mientras que el presidente vive en un palacio ,los indígenas en la miseria Sigue el robo y el saqueo En todo _URL
+
+Jalisco _GEO De la entereza y la fuerza de la lucha de los habitantes de Temacapulín, Acasico y Palmarejo, el tema que aborda hoy _USR #InformativoNTR 📻 _USR
+
+Puebla _GEO Tecomatlán, continúa su transformación, construyendo un futuro prometedor para sus habitantes, tres años han sido muestra de lo que es posible conseguir trabajando arduamente en equipo y a través de la lucha organizada.#TecomatlánEjemploDeDesarrollo _URL
+
+Jalisco _GEO Navarrete necesita ver el vídeo titulado: Cambio de Paradigmas. Para poder comprender la lucha de los pueblos y dejar su VISIÓN ANTROPOCENTRICA en el pasado para asumir una VISIÓN HOLÍSTICA.
+
+Hidalgo _GEO El tercero de los victimarios hoy recibió sentencia por 73 años, juzgado por segunda ocasión por el mismo delito, ya que había sido puesto en libertad y la Suprema Corte de Justicia de la Nación tuvo que atraer el caso por la lucha y resistencia de doña Lorena y don Jesús
+
+
+--- cluster 3 (8 ocurrencias) ---
+Jalisco _GEO Defender la paridad más allá de los partidos, más allá de los acuerdos facciosos y más allá del interés de unos cuantos. Y nunca permitir, que se use nuestra lucha para seguir fortaleciendo las ilegalidades que vulneran la democracia y la paridad de género. _USR _URL
+
+Yucatán _GEO Provenir de minorías parece un vale para cagarse en todo… Tu lucha, mi lucha y/o nuestra lucha no da credenciales para irrumpir otras luchas…
+
+QR _GEO la orca Kiska está en una desesperada lucha para recobrar su libertad. Únete a esta campaña y firma en: _URL Alza tu voz junto a +200,000 personas de todo el mundo. #FreeKiska
+
+Yucatán _GEO Provenir de minorías parece un vale para cagarse en todo… Tu lucha, mi lucha y/o nuestra lucha no da credenciales para irrumpir otras luchas…
+
+Puebla _GEO _USR no había levantado la voz en tres años. Su lucha no es por los trabajadores, sino para congraciarse con _USR 👇🏻 Comenzó como porro y terminó igual. _URL
+
+
+--- cluster 4 (22 ocurrencias) ---
+Guerrero _GEO Seguimos en la lucha por nuestros derechos!!! #RTG _URL
+
+Jalisco _GEO Si cierto todos los oxxos cuentan con paneles solares 😌 _USR lucha por que México esté a la par con España en cuanto a tarifas eléctricas.
+
+Mexico _GEO La jornada de vacunación para jóvenes de 18 a 29 años de edad se lleva con éxito. Serán tres días de trabajo intenso, pero valdrá la pena, ya que representa el cuidado y la lucha por mantenernos fuertes en medio de esta pandemia. Recuerden, única sede en el CBT Justo Sierra _URL
+
+Sonora _GEO Con una trayectoria personal de lucha activa por el empoderamiento de la mujer, y por avanzar hacia una igualdad sustantiva en todos los ámbitos, me alegra enormemente el inicio de labores formales de esta Comisión tan importante.
+
+Mexico_City _GEO Han sido muchos los días de labor, convocatorias y una lucha permanente por reivindicar los temas laborales para nuestros amigos motociclistas y ciclistas del #reparto. Han sido escuchados en varios países de américa , Europa y Asia con ideales afines por las mismas carencias(.) _URL
+
+--------------------------------------------------
+Palabra: temporada
+
+--- cluster -1 (80 ocurrencias) ---
+Veracruz _GEO Así cómo va la temporada 2021 de la #NFL no me desagradaría en lo absoluto ver a los #BillsMafia vs #BoltUp en la Final de la Conferencia Americana por el pase al Super Bowl LVI. Duelo de pistoleros entre Josh Allen y Justin Herbert. 🔫
+
+Mexico_City _GEO _USR Toluca ganó en la temporada 74-75 y le dieron el título en el Nou Camp y volvió a ser campeón 23 años después. En el 98, un año después de que cruz azul de coronara en ese estadio. León fue campeón en ese estadio en el 92 y volvió a ser campeón en el 2013. 21 años después.
+
+Sonora _GEO Muy contento y agradecido con mis hijas que me regalaron la casaca del club de mis afectos, el Club Yaquis de Ciudad Obregon, y ya prácticamente listo para que se inicie la temporada 2021-2022, a darle _USR vamos con todo, viva el deporte rey que une a los sonorenses _URL
+
+Guanajuato _GEO The Office Temporada 3 Episodio 25 minuto 19:48. Ya me obsesioné. 😅
+
+Coahuila _GEO Hoy se presentó el protocolo al subcomité regional de salud y fue aprobada la apertura del estadio para la temporada 2021 de la Liga Invernal Mexicana 👏🏻⚾️ #FURIAZUL _URL
+
+
+--- cluster 0 (53 ocurrencias) ---
+NL _GEO _USR Acostumbro levantarme temporada, tal vez una hora después que tu, pero ya estoy ansioso para que cambie el horario. La verdad si me gusta mucho el horario de verano porque aprovecho mas el día. Pero las ultimas semanas, si sufro. Te mando un abrazo desde Monterrey.
+
+Puebla _GEO Cadena de oración para que el : Holi Holi Holi desaparezca de cualquier temporada siguiente de #LMD _URL
+
+Querétaro _GEO _USR En la 5 capítulo 3. La deje de ver 1 año, y La retomé, me aventó la 4 temporada super rápido. Ya me volví a picar :3
+
+Mexico_City _GEO Ustedes también están bien emocionados por la 3a temporada de la mejor serie del momento. 🤩
+
+Mexico_City _GEO _USR Última serie que Me gustó fue la de Alice in Borderland. Cuando sale la 2a temporada?? 🤔🤔
+
+
+--- cluster 1 (19 ocurrencias) ---
+Sinaloa _GEO Ya inició el beis, ya me van a abucheher en la calle cuando me ponga la casaca de los Cañeros. Porque fuera de temporada no se dan cuenta
+
+Sonora _GEO El inicio de temporada 🍊⚾️no fue lo mismo sin usted Sr. Torres🎤, se la dedicamos hasta el cielo ✝️🕊
+
+Morelos _GEO _USR Los moneros que trabajan arduamente todo el año para hacernos reír de los políticos transas, también merecen su peluche de temporada larga, Navidad, Reyes, Candelaria y Día del Niño.
+
+Mexico _GEO _USR Fin de temporada de los chiles en nogada.
+
+Mexico_City _GEO _USR Yo creo que a pesar de las ausencias tiene Chivas para imponerse 2-1 pero si America logra demostrar lo de arranque de temporada esto podría cambiar…
+
+
+--- cluster 2 (51 ocurrencias) ---
+Mexico_City _GEO muy mona la verga contestona como acostumbra, a la Kanvas Lion ya le alcanzó a comprar una casa con la cantidad d guanteuñas q se van a ver en la temporada hhaha
+
+Jalisco _GEO Halloween es la temporada más especial para mi 👻🎃🖤
+
+BC _GEO Llegó la temporada de usar pijama debajo del pantalón. 😅
+
+NL _GEO Ya es temporada de sofyqp con pants 24/7. Comodidad. ☺️
+
+Tabasco _GEO Aunque los efectos de las lluvias de la temporada, hasta hoy son leves, esta noche me reuní de nuevo con integrantes del Consejo Estatal de Protección Civil, para darle seguimiento a las acciones que se realizan, a fin de prever algún efecto de futuros fenómenos metereológicos. _URL
+
+
+--- cluster 3 (33 ocurrencias) ---
+Mexico _GEO _USR Ese América fue uno de los peores, de vdd la sufrimos en esa temporada, todo salía mal... Hasta el jersey 😂
+
+Sinaloa _GEO Una temporada más para el #Teamlugo con mis _USR . ⚾️💥⚡️🔥🔥 #LUGOTAKER en Estadio de Beisbol Tomateros de Culiacan _URL
+
+Yucatán _GEO _USR Toda la temporada puede decidirse con una patada
+
+Mexico _GEO ¿Algun dia en esta temporada los _USR tendrán un partido sin tener que hacernos sufrir? #RavensFlock
+
+Veracruz _GEO _USR Cierto, Pero lo de Dinneno ya es mental, mejoró su actitud pero solo la primera temporada demostró tino, Sería Carlos con otros para darle certeza a la delantera!!
+
+
+--- cluster 4 (28 ocurrencias) ---
+Mexico_City _GEO Hoy es el estreno de “Bajo el Cielo de Leningrado” y tuvieron Sold Out, deseamos que así siga toda la temporada… _URL
+
+Guanajuato _GEO Obvio, _USR no nos podía decepcionar 😍 La verdadera chica de la moda de la temporada. #LMD #LMD4 #LaMasDraga #LaMasDraga4 #LaMasDraga4T
+
+Mexico _GEO ¿Lo de Ribeiro y Palacios en _USR es de verdad necesario? No muestran nada fuera de lo "regularcito" ¿en serio son REFUERZOS para ésta temporada?
+
+NL _GEO ¡Qué pese el Palacio 🙌! Gracias afición por darse cita este martes para abrir la serie ante Tomateros. #HagamosH1storia juntos en esta temporada _URL
+
+Veracruz _GEO Igual, son los UNICOS artistas destacables de ésta temporada. no more!
+
+--------------------------------------------------
+Palabra: rico
+
+--- cluster -1 (17 ocurrencias) ---
+Mexico_City _GEO Este cabron es de puebla andaba aca de paso y nos fuimos a coger, chacalito delicioso ¿quieres ver que pasó? _URL _URL _URL Dale RT Vamos a grabar la vamos a pasar rico animate _URL
+
+Mexico _GEO Buenas Buenas Hoy Amanecimos Hot 😈🔥 Quien para armar algo chido y pasarla rico 🍑🍆 _URL
+
+Michoacán _GEO Amores baje el precio del contenido, no esperen para tenerlo y pasarla super rico 🔥😈🤤 (fotos/videos nuevos) ✅
+
+Jalisco _GEO Hola chicos ya es martes de calinte y hoy los esperamos para pasarla increíble y disfrutar de una rica cerveza bien fría en el lugar más rico y relajado de la ciudad de Guadalajara donde mas _USR quien va ir para pasarla rico 🍑🍆😏quién dijo yo _URL
+
+Mexico _GEO Si no te gusta depositar mañana puedes pasarla rico voy a estar en el #hotelcondesa solo instalate _URL
+
+
+--- cluster 0 (24 ocurrencias) ---
+Tamaulipas _GEO _USR Me imagino que rico seria vivir esa experiencia con ustedes
+
+Mexico_City _GEO ¡Qué rico y cuán útil es salir a correr y utilizar el enojo, la tristeza, el coraje y la desilusión como gasolina! ¡Te da un boost de energía impresionante! #RunningTherapy _URL
+
+Morelos _GEO HOY MIERCOLES D I S P O N I B L E Que rico es dejarte satisfecho 😋😋 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 Informes: _URL _USR _USR REGALAME UN 🔄 #RT 👍 #Like _URL
+
+Mexico_City _GEO ¡Que rico es quitarte los zapatos y sentir el pasto! _URL
+
+Mexico _GEO _USR Que rico ha de ser estar en esa selfie
+
+
+--- cluster 1 (37 ocurrencias) ---
+SLP _GEO Disponible en San Luis Potosí mis amores bellos quien amaneció con ganas de un rico mañanero😍🤩
+
+Jalisco _GEO _USR Buen día Mario ten excelente lunes Dtb, disfruta de un rico cafecito lleno de bendiciones. 🤗😃☺️☕ _URL
+
+Jalisco _GEO Hoy por la madrugada. Te invito a conocernos,.darte un rico masaje relajante, un oral delicioso una charla agradable y unos ricos besos. HOY MARTES, MIERCOLES, JUEVES Y VIERNES PROMOCIÓN AYÚDAME A DAR RETWITT POR FAVOR _URL
+
+Mexico_City _GEO Pues un rico pozolito! Saben dónde se come así de rico? Andamos por Parque Delta amigos !!!!!! _URL
+
+Mexico _GEO _USR Me encantaría llegar y darle un rico oral
+
+
+--- cluster 2 (384 ocurrencias) ---
+Aguascalientes _GEO _USR Que rico culo 😈
+
+BC _GEO A estos desgraciados les sale mas rico el aguachile que a mi 🥲 _USR _URL
+
+Mexico_City _GEO Pfff, q tal el culote🍑 de _USR ? No está como para manosear ese culote y olerle ese calzoncito 🩲puesto ? Perro culazo rico, 🤤está cómo para hacerle calzón chino y hacerle Tanga ese bikini, no creen …? #morboporcalzones #machos #gayunderwear #calzones _URL
+
+Puebla _GEO _USR Que rico. Dan ganas de mamarlo y darle unas buenas cogidas 😏😈😈
+
+Mexico_City _GEO _USR uff que rico papa
+
+--------------------------------------------------
+Palabra: juan
+
+--- cluster -1 (6 ocurrencias) ---
+Nayarit _GEO Necesitaba vitamina de aventura🏞 en Cerro de san juan _URL
+
+Jalisco _GEO Empezamos el dia con los piojos 🤮 Como $1300 × 3 horas ni las putas de san juan 🚫 YA NO PONDRE PROMOS😒😞 _URL
+
+Morelos _GEO _USR Estas riquísima en todos los sentidos sería un oamcer conocerlos me llamo juan
+
+NL _GEO _USR La carne de la San juan toda sabe igual, tido sabe a ablandador
+
+Mexico _GEO _USR hola deberias de cantar una de ana gabriel o la de no discutamos con pato la que canta juan gabriel con paty cantu o la de no me queda mas de selena ya que cantas muy bien suerte
+
+
+--- cluster 0 (36 ocurrencias) ---
+Mexico_City _GEO Menú del día 12 de octubre De 1 a 5 pm Nicolás San Juan 251 esquina La Morena, del Valle Norte, CDMX Para pedidos: 5556380957 5619998984 ¡Los esperamos! *Aceptamos todas las tarjetas* _USR _USR _USR _URL
+
+Querétaro _GEO Hoy | #Entrevista con Roberto Cabrera Valencia _USR , Alcalde de San Juan del Río, por #ExpresoRadio 📻 #StereoCristal _URL
+
+Mexico_City _GEO _USR Carro sobre la banqueta, betancourt frente al 4c, casi esquina con 1ra cda de betancourt. Tlalpan 14387, Ex hda San Juan de Dios. _URL
+
+Mexico_City _GEO Buenas noches soy Jesús Romero single de 26 años me encuentro aquí en la alcaldía Gustavo a madero Colonia San Juan de Aragón por dónde se encuentra la clínica 29 alguna chica o pareja para poder pasarla rico _URL
+
+QR _GEO Feliz inicio de semana ! Hoy queremos Felícitar con mucho cariño a nuestra socia y amiga Mirian San Juan Zarate y le enviamos un fuerte abrazo. _URL
+
+
+--- cluster 1 (126 ocurrencias) ---
+NL _GEO La literatura es la única arte que se describe a sí misma. Paráfrasis creo que de Don Juan Rulfo
+
+Coahuila _GEO El ejido La Unión será visitado el 19 de octubre; La Flor de Jimulco el 21 de octubre y Juan Eugenio el 26 de octubre.
+
+BC _GEO “Lo entiendo, lo comprendo, y lo respeto” - Juan Calo
+
+Mexico _GEO _USR Me parece que aplica la frase del Rey Juan Carlos, tanto a López Obrador y a VOX: ¿por qué no te callas?
+
+Querétaro _GEO Un gusto recibir esta noche he al Maestro _USR Juan Martín Granados Torres en el foro !! Hablemos de seguridad !! _URL
+

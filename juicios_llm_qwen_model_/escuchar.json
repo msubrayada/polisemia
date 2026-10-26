@@ -1,0 +1,175 @@
+{
+  "palabra": "escuchar",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Percibir sonidos con los oídos (música, gritos, anuncios, etc.)."
+    },
+    {
+      "id": "s2",
+      "glosa": "Prestar atención a lo que se dice (hablar, demandas, anécdotas, etc.)."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 56162,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25953,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61025,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 16462,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 49887,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 22677,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64031,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 49700,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57088,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 78460,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55885,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 74979,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 4206,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21373,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27654,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8194,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 41008,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6402,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 51506,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 9377,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 3983,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 3437,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 7621,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 33700,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 38270,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 10867,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 31083,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 70865,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 14249,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 39383,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 77388,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 68943,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 5785,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 28491,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 68831,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 73419,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 6434,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 55901,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 54527,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 62878,
+      "sentido": "s2"
+    }
+  ]
+}

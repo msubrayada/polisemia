@@ -1,0 +1,191 @@
+{
+  "palabra": "imagen",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Representación gráfica, foto, pintura, gif, etc."
+    },
+    {
+      "id": "s2",
+      "glosa": "Percepción que otros tienen de una persona o entidad, o imagen que se proyecta."
+    },
+    {
+      "id": "s3",
+      "glosa": "Ser una representación o reflejo de algo, como en 'imagen de Dios' o 'imagen de uno mismo'."
+    },
+    {
+      "id": "s4",
+      "glosa": "Identidad visual de una organización, como su logo, diseño, etc."
+    },
+    {
+      "id": "s5",
+      "glosa": "Métodos médicos de imagen, como resonancia magnética."
+    },
+    {
+      "id": "s6",
+      "glosa": "Cuando 'imagen' es parte de un nombre propio."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 49876,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52121,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 72032,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 24201,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 44319,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 14976,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 47254,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 23353,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 47026,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 73040,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 8013,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39868,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 6812,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 30056,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13051,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 15014,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62088,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 74056,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 46461,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 7206,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 33789,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7599,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 5991,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 4321,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 15046,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 74998,
+      "sentido": "s6"
+    },
+    {
+      "id_tweet": 45180,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25367,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63111,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48984,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67610,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38305,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27355,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 56513,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 351,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59866,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20380,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 19101,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32275,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42318,
+      "sentido": "s3"
+    }
+  ]
+}

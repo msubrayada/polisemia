@@ -1,0 +1,460 @@
+--------------------------------------------------
+Palabra: busca
+
+--- cluster 0 (15 ocurrencias) ---
+Guanajuato _GEO &lt;&lt;todo indica que Luis Ernesto Ayala está armando alianzas en busca de su proyección como candidato a la gubernatura, por enésima ocasión&gt;&gt;
+
+Sonora _GEO Ando en busca de trabajo, alguien sabe de alguno. Ing. en TI. Y hoy día estudio 2do semestre de Maestría en Educación. #Etchojoa #Navojoa #Hermosillo
+
+Mexico_City _GEO ¡Primer simposio de investigación! Se abordarán las ponencias de: -Cannabidiol blocks cardiac hypertrophy and contractile disfunction in hehert facilite -En busca de la función biológica de las lipoproteínas de alta densidad Y más ¡No te lo pierdas! _URL
+
+Mexico_City _GEO Equipo _USR siempre al servicio en busca del #BienestarEnLaCiudad
+
+BC _GEO En busca de apoyo para pagar la extracción de fijadores externos _URL
+
+
+--- cluster 1 (21 ocurrencias) ---
+Morelos _GEO SE BUSCA novia que gane $9,000 para unir sueldos y así tener $9,300. 😍
+
+Mexico_City _GEO Busca en _USR tu selección del Premio Nobel de Literatura y ahí encontrarás Noche fiel y virtuosa de Louise Glück en la edición de _USR Aquí en la Gandhi de Hermosillo, Sonora. _URL
+
+Jalisco _GEO LA GENTE EXITOSA SIEMPRE BUSCA LA OPORTUNIDAD DE AYUDAR A LOS DEMÁS. LA GENTE QUE FRACASA, SIEMPRE PREGUNTA : ¿Y YO QUE GANO? en ELECTRONICA SAN GABRIEL _URL
+
+Mexico_City _GEO _USR Alguien que le diga que el problema está en que le ganó una final al León en su estadio hace dos años y eso no se debe hacer. jaja Busca en Google, "La maldición del Nou Camp" Sueña trillado pero si te pones a pensar.
+
+NL _GEO 🆘 SE BUSCA A SUS DUEÑOS 🐾 Vecinos reportan este perro en calle Alamo 1er sector, parece extraviado. _URL
+
+
+--- cluster 2 (103 ocurrencias) ---
+Michoacán _GEO Yo diría que se busca a Montero que jugó de gratis
+
+SLP _GEO _USR Ojalá sea el mío 😃 pues ahí en la plaza de los ex canels hay de todo lo que busca
+
+Mexico _GEO "Hagas lo que hagas, busca el latido".🤍❄️ E. S. Mi frase favorita... _USR
+
+Querétaro _GEO No es de extrañar, el doctor _USR busca seguir siendo. A pesar de su parcialícima visión y trayectoria.
+
+Querétaro _GEO El miedo, limita tu voluntad. Todos quieren dominar a alguien por motivos de trabajo, económico o sentimental; lo único irremediable es la muerte; y el agresor jamás espera que lo enfrenten, busca al débil que nada dice. De frente y fijando la mirada en el supuesto superior.
+
+--------------------------------------------------
+Palabra: vida
+
+--- cluster -1 (246 ocurrencias) ---
+Yucatán _GEO Llegamos a los 26 años este 2021; gracias doy a la vida, a mis amistades, a mi familia, a mis redes de apoyo y a la gente que día a día procura mi felicidad y seguridad. Siempre pido un deseo por cada año, así que hoy tengo 26 que pedir 💜💫. _URL
+
+Mexico_City _GEO _USR Y más en tiempos de Pandemia , ayudaría a conocer la vida real
+
+Puebla _GEO La vida y la muerte no son opuestas, el ego y la vida son opuestos. El ego está en contra de las dos, la vida y la muerte. El ego tiene miedo de vivir y el ego tiene miedo de morir. Tiene miedo de vivir porque cada esfuerzo, cada paso hacia la vida, acerca la muerte. -OSHO
+
+Mexico_City _GEO Así el iceberg de la vida este mes en Mexico City, Mexico _URL
+
+BCS _GEO Buenos días Alegría, buenos días mundo buenos días vida. Despertar con un poderoso mensaje y recordando esta hermosa noticia no tiene precio. Es inevitable esbozar una sonrisa de oreja a oreja llena de orgullo y satisfacción de ver cómo mi Fav. va cumpliendo todos sus sueños. _URL
+
+
+--- cluster 0 (82 ocurrencias) ---
+Mexico_City _GEO Porque la VIDA MERECE UN HOMENAJE, al adquirir un plan a futuro con J. Gracia López Casas funerarias, usted y su familia están respaldados, lo asesoro sin ningún costo. _URL
+
+Mexico_City _GEO Cambia el Género de tu Historia: de DRAMA a AVENTURA... y lograrás más Temporadas de LA SERIE DE MI VIDA!
+
+Jalisco _GEO _USR Muchas felicidades!!!!! todo Lo Mejor Para Ti, Toda Meta, Todo Propósito, Todo Lo Que Te Propongas Conseguir Se Convierta Una Realidad En Tu Vida, Y Todo Lo Mejor Para Ti, un fuerte abrazo. Feliz Cumpleaños 🎂🎂.
+
+Morelos _GEO _USR LA FELICIDAD SE ALCANZA CUANDO DISFRUTAS TU VIDA DIA A DIA Y NO CUANDO TE OBSECIONAS POR UN FUTURO QUE NO SABES SI ALGÚN DÍA LLEGARA. Angel Rene. Buenos días amigos les deseo un feliz inicio de semana. Dr. Angel Rene Abrego y Escobedo. Presidente. _URL
+
+Morelos _GEO Acaba de publicar una foto en Luna & Vida LEGAL _URL
+
+
+--- cluster 1 (877 ocurrencias) ---
+Mexico _GEO _USR Yo llevo toda la vida tomando malas decisiones, eso me hace un pendejo...
+
+Chihuahua _GEO _USR Xd _USR es el sujeto más extraviado que existe en la vida pública del país. Y conste que no estoy diciendo que sufre de sus facultades mentales, no 😂
+
+Chihuahua _GEO Mi vida sexual ya es artesanal, porque todo es con la mano 😢
+
+Tamaulipas _GEO Wuo que bonito es ver qué se le da más y más difusión a la salud mental. Un tema tan importante y tan complejo, nos falta mucho que aprender como sociedad sobre los problemas que conllevan esta parte tan importante de nuestra vida.
+
+Mexico_City _GEO Ok… pero sólo una!!! *Yo antes de ponerme la peda de mí vida… hasta ahora 🤪🤪🤪🤪🤪 _URL
+
+
+--- cluster 2 (218 ocurrencias) ---
+BC _GEO No es contra la prostitución. Es contra el engaño y la distorsión de la esencia de un estilo de vida. #SwingerLife #SwingerStyle #SwingerPure
+
+Mexico_City _GEO Hola buenos días 🌅😘 a todas deseándoles un feliz día a lado de su familia 👨‍👩‍👦‍👦 Dios derrame muchas lluvias de bendiciones y éxitos y prosperidad y abundancia y mucha vida y salud Dios las bendiga siempre a todas saludos un abrazo fuerte 🤗❤️❤️🌹 _URL
+
+Tamaulipas _GEO Metas de vida: ir a un partido de cada liga de Estados Unidos (NFL, NHL, NBA Y MLB)
+
+Chihuahua _GEO Mi papá y mi mamá me dieron la vida, y ese homerun de _USR , las ganas de vivirla. #WorldSeries #ForThehe
+
+Guanajuato _GEO 👏🏽 Con mucha alegría felicito a mi amigo Santiago Taboada, por el inicio de sus 2do periodo al frente de la Alcaldía Benito Juárez en la #CDMX. Es un hombre que ha puesto su talento y amor por la Ciudad para que su delegación sea referente en calidad de vida y bien común. 🏆 _URL
+
+
+--- cluster 3 (106 ocurrencias) ---
+Mexico_City _GEO _USR Muy cierto!!!! Muerto en vida!!!! _URL
+
+Puebla _GEO _USR Tengo 2 grupos donde soy la única mujer. En uno ocasionalmente se pasan de asquerosos y mejor no contesto, con eso saben que me molesté. El otro es más light y me da risa, ni que jamás hayamos cog... en la vida. 😬
+
+Guerrero _GEO De las cosas más bonitas en la vida es ver la puesta del sol ☺️. _URL
+
+BCS _GEO Si yo tuviera novio le dedicara la canción de contigo si, pero pues no se puede todo en la vida 🤷🏽‍♂️
+
+Tamaulipas _GEO Por primera vez en la vida me decidí a poner un altar yo sola, va para mi abuelita 💓
+
+
+--- cluster 4 (273 ocurrencias) ---
+NL _GEO Disfruten la vida, hoy estamos y al rato nos vemos?
+
+Sinaloa _GEO Que las mariposas no solo se alimentan de flores, también de insectos y de popo de insectos... Y así es la vida, toma de ella lo que venga y aprovecha para aprender, para crecer y para ser tú mejor versión 😘❤️ #LunesDeMotivacion
+
+Morelos _GEO Dicen que el ser humano aveces necesita SENTIR LA FUERZA DE UN CICLÓN. Para que aprenda a NO ASUSTARSE con la más leve brisa de la vida! ✨😘
+
+Querétaro _GEO No se quien escribe este guión de la vida pero no me lo creo, es un genio loco
+
+Veracruz _GEO «Tengo confianza. Vivo más tranquilo [...] Pero no olvido que la vida y todas sus grandes cosas son momentáneas, y que de pronto en un instante podemos quedarnos ciegos en medio de la luz, muertos en medio de la vida, solos en medio del amor».
+
+
+--- cluster 5 (74 ocurrencias) ---
+Zacatecas _GEO #BuenDíaMundo #Saltillo Siempre esperando que la vida nos sorprenda... lindo día #QueridosFollowers _URL
+
+BCS _GEO "La vida no te da a las personas que tú quieres, sino que te da a las personas que necesitas. _URL
+
+Jalisco _GEO Ya quiero que la vida diga "ya ten tu chingadera pues, vieja enfadosa"
+
+Mexico _GEO Decir adiós no siempre es motivo de tristeza. A veces es una señal de que la vida tiene preparadas nuevas y bonitas aventuras. _URL
+
+Mexico _GEO #BuenosDiasATodos Quizás te des cuenta algún día de que la vida no exigía tanto de ti: tanto sacrificio, tanto cansancio…tal vez tan solo te pida ser feliz. ¡Te deseo un gran inicio de semana! #BuenLunes _URL
+
+
+--- cluster 6 (90 ocurrencias) ---
+NL _GEO _USR Insistió … en vez de esta buscando atención en una red social como Twitter, xq mejor no vas _USR con tus papás y les dices y ya… Cual es el problema compadre? Animo, que la vida es bella
+
+NL _GEO La vida solo se vive una ves, como. Pará vivirla como otras personas quieren que la vivas.
+
+NL _GEO _USR La extrañaré siempre pero la vida es así, solo estoy a 10 horas en avión, cuando las condiciones se den voy de visita más regularmente
+
+QR _GEO La vida es corta y el mundo es ancho 🌎 @ Isla Mujeres _URL
+
+NL _GEO Cuando te veo, el mundo es de colores, el aire huele a flores y la vida es perfecta.
+
+--------------------------------------------------
+Palabra: esperar
+
+--- cluster 0 (27 ocurrencias) ---
+Puebla _GEO _USR Pues si aquí el presidente dice tonterías de nuestra historia, que podemos esperar de alguien no mexicano y que no estudio historia aquí.
+
+Mexico_City _GEO _USR Ni siquiera porque ése Pasquín tiene quién le ayude a éso, lo hace, pero bueno… nada bueno se puede esperar de l _USR chayodamnificad _USR como él comprenderá.
+
+Mexico_City _GEO _USR Si, esa gente es peligrosa. Si están dispuestos a defender al Che Guevara, a Fidel Castro, Hugo Chavez y Maduro solo porque su líder es Mel, qué se puede esperar de ellos...
+
+NL _GEO _USR Que podemos esperar de alguien que reprobó plastilina 2 en el kinder. Razonar con ellos es una completa pérdida de tiempo.
+
+Mexico_City _GEO _USR Ese teatro ella misma lo monto. Como la dejaron vestida y Alborotada. Que se puede esperar de Esa bruja.
+
+
+--- cluster 1 (140 ocurrencias) ---
+Mexico _GEO _USR A mí también me.toca pero me voy a esperar hasta el viernes por qué aún tengo efectos de gripa
+
+Guanajuato _GEO Me encanta hacer esperar a la gente desesperada. 🤣🤣
+
+Mexico_City _GEO Nos ayudas a que los peatones caminemos libremente sobre la banqueta. Este es reincidente; amerita sanción _USR cuanto más tenemos que esperar a caminar libremente. Eje central 46 casi esq con Fernando de Alva Ixtlilxochitl _USR
+
+Mexico_City _GEO Debo pensar que no debo esperar nada de nadie y ser una buena persona sin esperar nada a cambio. Siempre por siempre.
+
+Chihuahua _GEO _USR Excelente!!! Si estás del lado de los Mexicanos y en favor de defender a México, entonces obviamente apoyaran la reforma de nuestro presidente. ¡¡¡ Bien, no podía esperar algo mejor de ustedes!!!
+
+--------------------------------------------------
+Palabra: leer
+
+--- cluster 0 (24 ocurrencias) ---
+Chiapas _GEO "Y luché contra el mar toda la noche, desde Homero hasta Joseph Conrad, para llegar a tu rostro desierto y en su arena leer que nada espere, que no espere misterio, que no espere".
+
+Mexico _GEO _USR Ayyyyy por favorrrrrr!!! Que alguien le explique!!!!!😩😣🤦🏻‍♀️ Leer y cultivarse sirve para no hacer el ridículo a nivel nacional y mundial.
+
+Puebla _GEO Habiendo pendejos como éste, aún hay otros idiotas que siguen creyendo que lo social de alguna forma puede pasar como ciencia. Ahora resulta que la sociedad mexica era 'sofisticada' y 'compleja' (Leer el hilo completo, es imperdible)
+
+Querétaro _GEO Quienes serán nuestros cracks del futuro vía _USR . Leer aquí: _URL
+
+BC _GEO El arte kumiai será exhibido en el Palacio de Bellas Artes de la Ciudad de México La maestra artesana Aurelia Ojeda Meléndrez, de la comunidad kumiai fue galardonada con el Premio Especial por mejor pieza de rescate antigua... Leer nota completa🗞️📰 ➡️ _URL _URL
+
+
+--- cluster 1 (229 ocurrencias) ---
+Puebla _GEO _USR Sra Mendoza no tenía el gusto de conocerla, a partir de hoy trataré de leer sus columnas, vi su entrevista en _USR y me parece muy inteligente y atractiva, saludos.
+
+Sonora _GEO _USR Ni leer bien puede y critica los textos de alguien más. Yo no se porque seguimos dándole importancia a la señora en cuestión.
+
+Mexico _GEO _USR Saliste en la tele!!!! Lastima que la seño Vilchis ni siquiera pueda leer de corrido tu nombre sin que se trabe.
+
+Mexico_City _GEO _USR Eres una chingona, eso también influye. jejetl. PD: O no sé leer o se entiende que depende de tener conectes o pitudos cerca. jaja. PD2: En mi caso, ni una, ni otra... Soy muy tímido. XD
+
+Mexico_City _GEO A medida que la IA comienza a desempeñar un papel más importante en nuestras vidas, es fundamental que los líderes tecnológicos creen el marco para una IA ética y transparente. Click para leer #NTTDATA Teri Hatcher y _USR hablan con _USR
+
+--------------------------------------------------
+Palabra: verde
+
+--- cluster 0 (25 ocurrencias) ---
+Sonora _GEO Participa Verde Sonora en jornadas de limpieza en #Hermosillo 🚮 📱Nota completa➡️🟢 _URL _URL
+
+Morelos _GEO _USR Pues también paso por paso. Primero que nos regresen a verde y que luego regresen las clases presenciales. Honestamente creo que sea hasta enero.
+
+Chiapas _GEO Restaurante Villa Sabinos Olivo Romero Río Grande Comitan Chihipas De, Domínguez Cocina Mexicana, Qaxaqueña, Internacional Desayunos Comidas Cenas Maridajes Resepciones Coffe breack Espacios Para Conferencias Áreas Césped Verde Eventos Sociales Artísticos, VIP. _URL
+
+Jalisco _GEO JUGAREMOS MUEVETE LUZ VERDE _URL
+
+NL _GEO _USR Lobato me recuerda mucho a cuando pasaban la Serie CART en ESPN no recuerdo el nombre de sus narradores pero había uno que tmb te pegaba la emoción solo recuerdo que decía "Verde,verde,verde...!!" _URL
+
+
+--- cluster 1 (9 ocurrencias) ---
+Mexico_City _GEO _USR Esta comprobado que el consumir manzana te ayuda a bajar de peso y te ayudará a la digestión, la manzana verde te ayudará a tener menos estrés, que tengas un excelente día exquisita Pao
+
+Chiapas _GEO Y recuerda siempre: No trates como gomita roja con azul a quien te trata como gomita verde con naranja. 👌🏻💛
+
+Querétaro _GEO Pollito con papas en salsa verde con habanero y arroz rojo con papitas @ Queretaro _URL
+
+Mexico_City _GEO Ya estamos en servicio! Ricos tacos de canasta en $6 Chicharrón, Papa, Mole verde con pollo y frijol. Petunia y av del rosal a una calle de Metro Constitución de 1917 _URL
+
+Tamaulipas _GEO _USR Perrisimo, con tortillas, queso, salsa verde y coca cola 🤤
+
+
+--- cluster 2 (92 ocurrencias) ---
+NL _GEO Pase de jugar en el club campestre a jugar en valle verde en 5 minutos🤣
+
+BC _GEO Ya sabíamos que el partido verde es la prostituta de los partidos _URL
+
+Tabasco _GEO _USR Pensé que desde que se instauró el verde/blanco, México había jugado siempre con medias rojas
+
+Mexico_City _GEO _USR No se haga! Acueeerdese que escupí en mi mano un gargajo verde y rojo con chingomil pelos, y asté estampó su pata de cabra para sellar el acuerdo! Estábamos en La Hija de Los Apaches, hasta pasó por Asté Layda y la Cenadora para su menage a trois, no se haga! _URL
+
+Mexico_City _GEO _USR No no me caí mal solo me vale solo se me hace muy incongruente y nada humilde! Y lo que he visto de ella hasta ahora no me gusta nada su vestido verde parecía pino 🌲 de navidad la más folclórica x que ni me acuerdo, la más pintada me pareció a la chimoltrufia vestida de gala!
+
+--------------------------------------------------
+Palabra: confianza
+
+--- cluster 0 (21 ocurrencias) ---
+Querétaro _GEO Recuerdos entregados. Gracias por su confianza 😊❤️ en Recuerdos y Accesorios Ella's _URL
+
+Jalisco _GEO Nuevamente gracias por la confianza #delstudio #articulosdeportivos #deportehuichol #baseballball #pelotadebeisbolpersonalizada #pelota #pelotadebeisbol #baseball #pelotahuichol #pelotamexicana #artemexicano #artewixarika #elreydelosdeportes #consumelocal #hechoenjalisco _URL
+
+Guanajuato _GEO Hoy inicio un nuevo andar, como titular de la Secretaria Estatal de Fortalecimiento Interno del _USR Agradezco a mi líderes estatales _USR y Rosario Corona la confianza para seguir trabajando por un mejor #Guanajuato 💙🤍 #UnSoloPAN #UnSoloEquipo #UnMejorGTO _URL
+
+Mexico _GEO Agradezco al coordinador _USR la oportunidad de trabajar por el Estado de México, sé que en equipo se logran grandes cosas. A la presidentísima _USR , gracias por la confianza depositada durante estos años en el _USR , pero sobre todo por su amistad. 🙌🏼 _URL
+
+Zacatecas _GEO ¡Gracias! 🙏🏻 _USR Queremos agradecer todo su apoyo y confianza durante esta temporada 2021 por hacer posible el #51EMPRESÍ. ¡Nos vemos para planear el 2022 más fuertes que nunca! 💪🏻⚾ _USR _URL
+
+
+--- cluster 1 (9 ocurrencias) ---
+Mexico _GEO _USR Confianza, Acciones sanas para la relación, madurez o, simplemente no es de ver estados ?? jeje
+
+Sonora _GEO _USR 🤣🤣🤣🤣🤣🤣🤣 Confianza dice el caco 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
+
+Guerrero _GEO SI YA LE ENTREGASTE TU VIDA A CRISTO JESÚS PON TODA TU CONFIANZA EN ÉL POR SI NO SOLO ANDARÁS DANDO VUELTAS EN TU DESIERTO. SALMOS 95:6-11
+
+Mexico_City _GEO _USR Y ya vieron que desde que entró AMLO la construcción de vivienda ha bajado casi 50%. Así lo reporta _USR . De 315,400 unidades en 2017 a 163,000…. Y no se ve el fondo aún…. SIN INCERTIDUMBRE, SIN CONFIANZA, se nos desploma nuestro Mexico…. _URL
+
+Coahuila _GEO _USR Perdón, yo lo que leo de esa gráfica es la CONFIANZA, no dice nada de ser el mejor. Esto último se da con resultados, que esperemos se den. Suerte Gobernador.
+
+
+--- cluster 2 (84 ocurrencias) ---
+Mexico_City _GEO Soy el tipo de persona que tiene una paciencia enorme, siempre trata de hacer las cosas bien, te escucha y te trata de entender. Pero una vez que eso está roto al igual que la confianza, jamás vuelvo a ser el mismo con esa persona.
+
+Jalisco _GEO _USR Esa no es la forma de expresarse, nada de tibiezas. Se confío en ustedes, no desprecien esa confianza. Tiene que ser contrapeso y hasta el momento No lo han sido. Demuestren con hechos su compromiso.
+
+Mexico_City _GEO jaja jaja hola régimen de confianza por apoyo a micro empresas
+
+Yucatán _GEO La dimensión de los festejos,no determina el amor que tengo por ellos, una plática con dos preadolescentes muy constructiva y de mucha confianza con mis hijos. en Mérida Yucatán _URL
+
+Mexico_City _GEO _USR Así es, han perdido la confianza del pueblo por farsantes doble moral, como se atreve esta vende patrias hablar así de una personalidad y líder genuino como nuestro presidente. Arriba el prestigio de López Obrador.
+
+--------------------------------------------------
+Palabra: chido
+
+--- cluster -1 (17 ocurrencias) ---
+Querétaro _GEO Buenos días! Que les vaya bien hoy! , ánimo, que todo salga chido, un beso en sus frentes, te tqm por si me stalkeas.
+
+SLP _GEO Ayer charle con _USR para "Caguamas y Dramas" hablamos de magia y películas de terror, les recomiendo mucho escuchar su podcast, estuvo muy chido.
+
+Mexico_City _GEO Estaría chido que hubiera un “híbrido” de estas dos banderas… 🇳🇫🇨🇦 😉
+
+NL _GEO Estuvo mas chido su centenario 💯 de 💯 el festejo 👀
+
+Mexico_City _GEO Sí, muy chido el #VL22 pero antes nos vamos a echar el bailongo con la máquina destructora🤙🤙🤙 _URL
+
+
+--- cluster 0 (23 ocurrencias) ---
+Querétaro _GEO Buenos días alegría, ya va a ser 15 o sea que cada vez esta mas cerca la navidad 💞 haha que les vaya chido hoy 🤞
+
+Veracruz _GEO De vuelta a la realidad jaja ya es lunes Dónde están los morros calientes?😈 Quiero iniciar chido la semana 🤪
+
+NL _GEO _USR wey, sorry la demora hoy casi no me metí a Tw. Feliz cumpleaños, Dios te bendiga, espero la hayas pasado chido compadre! Saludos.
+
+Mexico_City _GEO He llegado a la conclusión que con amistades de hace tiempo que son menores 24 años, aunque nos llevemos chido y se haga buen desmadre voy a dejar de hacerlo, lo siento pero se han convertido en la raza más débil que se ofenden por todo.
+
+Mexico_City _GEO _USR No es por el dolor, la neta es que después de la primera semana los llevo muy bien, lo que siento es que no los pega chido el vato, cada semana pierdo uno y ya me harté.
+
+
+--- cluster 1 (11 ocurrencias) ---
+Mexico_City _GEO Hay veces que mi suerte Y mi fortuna me asombran y me hacen dudar de mi ateísmo... Estás ahí dios? Que chido te portaste hoy!
+
+Tabasco _GEO Terminé mis actividades Y lo chido de todo Mañana tendré clases hasta las 10:00am Maldita felicidadddd😂
+
+Guanajuato _GEO _USR Que chido video aún se eriza la piel como olvidarlo… esto es AMERICA esencia pura… Feliz cumpleaños 🎁
+
+Mexico _GEO Qué tan chido es vivir en #Guadalajara? Pregunta seria.
+
+Veracruz _GEO Que chido andar en lo tuyo, sobre tus metas, sin ver a los demas, desearle buena vibra a todos sin rencor, me agrado😝
+
+
+--- cluster 2 (5 ocurrencias) ---
+Guanajuato _GEO Sería chido organizar una fiesta de disfraces para halloween 🎃 con temática romana, todos con disfraz pero sin ropa interior, para que todo termine como orgia de Caligula. 😏
+
+Mexico_City _GEO _USR Lo resumo en una frase: lo naco es chido.
+
+Veracruz _GEO Liam Neeson siempre hace la misma película xD pero siempre es chido verlo
+
+Jalisco _GEO _USR Es chido la verdad por qué te das vacaciones cuando quieras solo el problema es el trabajo que cae pues por eso estoy volviendo si no me quedo hasta el próximo lunes jaja
+
+Mexico _GEO De octubre me gusta todo;el clima,el ambiente,el ánimo,etc.. pero sigo sin soportar los eternos partidos de béisbol. No podrían recortarlos? Es chido todo el ambiente beisbolero: la afición,la tradición,los estadios,casi todo...excepto que son eternos! Duran más de 4 horas!.
+
+
+--- cluster 3 (9 ocurrencias) ---
+BCS _GEO _USR Un streamer/tiktoker muy pro con contenido chido la verdad 100% recomendable
+
+Mexico _GEO Buenas Buenas Hoy Amanecimos Hot 😈🔥 Quien para armar algo chido y pasarla rico 🍑🍆 _URL
+
+Chihuahua _GEO Ayer le dije a mi papá que mi mención honorífica era Useless porque tenía ni siquiera tengo un trabajo chido. Y su respuesta fue "pues busca otro". Ah mira, no se me había ocurrido.
+
+Mexico_City _GEO Que tiempos de conciertos de Catfish and the bottlemen 2014, el público bien chido y un único disco que valía la pena.
+
+Mexico _GEO Yo aprendo hasta de mis rivales, un tipo le escribio algo chido a la chica que me gusta y en lugar de emputarme dije "A perro esa la voy a apuntar" 😜
+
+
+--- cluster 4 (13 ocurrencias) ---
+Veracruz _GEO _USR Felicidades don _USR que se la pase super chido en su cumpleaños!!! 🎉🎉🎉🎊🎊🎊🎈🎈🎈🎂🎂🎂🎁🎁🎁 #RicardoSalinas Cumpleaños 😌 _URL
+
+Veracruz _GEO El disfraz del Renacuajo está bn chido , pinche morrito con todo lo miro chulo♥️
+
+Sonora _GEO Me la pase bien chido en el beis 🧡 _URL
+
+Jalisco _GEO Guadalajara le queda bien chido a mi pela. _URL
+
+Michoacán _GEO Anoche estaba agarrando el sueño bien chido cuando empezó a temblar despacito, entonces decidí quedarme acostado y me que llegara el dulce beso de la muerte. No pasó :(
+
+
+--- cluster 5 (9 ocurrencias) ---
+Mexico_City _GEO Hubiera estado bien chido armar la tripleta: Mula el 22, Bauhaus el 23 y Cariño el 24, pero ya no alcancé para el último. Ni modo.
+
+Jalisco _GEO Nadie Nadie Nadie Miguel mientras ve a un bebé gateando: estaría chido que lamiera el piso.
+
+BCS _GEO Estoy en un grupo de WA de fans de los _USR y neta que son la mamada, está bien chido textear con fans igual de hueso colorado like me. #RavensFlock
+
+NL _GEO _USR Oye tío _USR , estaría chido que al medio tiempo y al final del encuentro pongan los goles que anoten las _USR , esperando que sean muchos goles. No lo sé, piénsalo 👀
+
+Mexico _GEO Osease si está chido que reconozcan tu trabajo, lo que no está chido es que le enseñes a un p3nd3j0 bien p3nd3j0 a hacer su chamba 😒
+
+
+--- cluster 6 (15 ocurrencias) ---
+Sonora _GEO Mi fin estuvo chido pero también fue una bomba de sentimientos encontrados
+
+Coahuila _GEO _USR jaja bueno eso si no está chido
+
+QR _GEO Tzzzz _USR por qué ya no sale el pan Bimbo Kids? Estaba bien chido, para los chihibos
+
+Mexico_City _GEO Si te regalaran un LEGO de qué te gustaría que fuera? — Uno de los de Architecture estaría chido _URL
+
+Morelos _GEO Okay ,pero hacer como que somos dos desconocidos no está chido .
+
+--------------------------------------------------
+Palabra: entiendo
+
+--- cluster -1 (8 ocurrencias) ---
+NL _GEO _USR Totalmente... Esas cosas son ataúdes con ruedas, y la gente no entiende (yo entiendo la cuestión económica) que es preferible camión o hasta caminar, que seguir manejando eso. _USR ojo con estás prohibiciones a seguir rodando
+
+Mexico_City _GEO _USR jaja hora lo entiendo todo jaja
+
+Veracruz _GEO Nunca me quedó clara la transferencia de dinero,pese a que entiendo el cuánto ayuda a diseñadores y artistas.
+
+NL _GEO _USR Es impresionante como los Ficus se adaptaron al clima tan extremo de Monterrey. Hasta donde entiendo, son de climas tropicales. Extraño vivir en casas grandes, por el año 2000, en casa había un patio en el que las Jacarandás decoraban el piso con flores!!! Abrazo
+
+Puebla _GEO _USR ¡Ya sé! Se pasaron con mandarnos vacunas no aprobadas por la OMS, a lo que entiendo es por fines políticos que quieren desprestigiar a Rusia, pero la vacuna en sí, es muy buena. Pero ojalá la aprueben
+
+
+--- cluster 0 (18 ocurrencias) ---
+Mexico_City _GEO _USR No es más que la verdad _USR como le llamas a alguien que llega al Senado y cambia de bancada?. Y no es la única, lo sabes bien. Entiendo que cambie de ideología, pero, por dignidad se renuncia y te afilias a otro partido. Se llama congruencia!
+
+Jalisco _GEO _USR ayer el camión de la basura ya no paso por av. Molino de viento en los Molinos . Tenemos basura de 6 días. Urgeeeee. Entiendo ya no tenía capacidad. Pero mínimo que pase hoy
+
+Sonora _GEO _USR Entiendo por que puedan pagar menos por que producen energía. Lo que no entiendo es por que tienen una tarifa menor por Kwh. Yo tengo paneles instalados en mo casa pero mi costo por kwh sigue siendo el mismo.
+
+Querétaro _GEO Entiendo que existen contratiempos etc, pero ¿En qué momento se perdió la cordialidad al disculparse por no llegar a tiempo o ni siquiera presentarse? Aplica para todo, citas, juntas...
+
+Sonora _GEO _USR Entiendo q si no cambian d estrategia. Seguiremos viendo la misma historia; incluso recrudeciendose x una total Impunidad. Tal situacion no exhime a la Policia Municipal d Cajeme. C robos, asaltos, secuestros y estorciones. No se vale q se escuden en los Delitos Federales...!!!
+
+
+--- cluster 1 (105 ocurrencias) ---
+Tamaulipas _GEO Lo que no entiendo es por qué no lo gravo y encaro
+
+SLP _GEO Por el momento mi cuenta _USR esta suspendida y no entiendo por que 🥺. Primero mi página y ahora esto 😪😔
+
+QR _GEO No entiendo como hay gente que se arrastra ante un enfermo mental
+
+Mexico_City _GEO _USR Y yo no entiendo de que tamaño tienes tu cerebro
+
+SLP _GEO Las nueva generación tiene insta y no sube fotos, jAjA ya no entiendo nada.
+
+
+--- cluster 2 (35 ocurrencias) ---
+NL _GEO Ay ya me tiene harta esa chica, namás no la entiendo así que mejor bye.
+
+Yucatán _GEO así que como dije, lo entiendo, pero no es mi responsabilidad. yo puedo hablar por mi trabajo. y sí, me gusta mucho toda ésta onda, pero finalmente igual es mi trabajo, así que si no tienen dinero en mano/si no piensan comprarme, no me hagan perder el tiempo dándoles información
+
+Jalisco _GEO _USR te entiendo perfectamente &lt;/3 quiero operarme los ojos pero ya me siento bien dlv sin mis lentes jaja
+
+BC _GEO Está medio raro usar Twitter 😬 aún no le entiendo del todo
+
+Oaxaca _GEO _USR Te entiendo perfectamente; me pasé 3 días así, pero valió la pena. ¡Que te mejores Gabo!
+
+
+--- cluster 3 (18 ocurrencias) ---
+Mexico_City _GEO _USR Hay una juez que todo le parece excelente, cuando está horrible lo que hacen, entiendo que debe haber la buena onda pero que no las engañen que hicieron al excelente cuando no!
+
+Mexico_City _GEO _USR Pues no le veo hueva, realmente es mi libre opinión, por otro lado, entiendo que si cuando una persona se va y dice se tu amigo, pues no se tal vez yo por lo menos buscaría si en alto cometí un error, pero si no, pues entonces ni modo cada quien decide que amigos tener.
+
+Jalisco _GEO _USR Si, ahora, esa victimización obviamente es por falta de atención, claro está, no tiene a nadie, el punto aquí y entiendo no es nada nada barato tratarte pero creo se busca una manera de, espero se pueda tratar y dejar de buscar esa victimización por redes y…
+
+Michoacán _GEO "Padre celestial, humildeménte pido tu perdón, señor cónfiezo que soy un pecador y viole tu sánta ley, entiendo que la pena por el pecado es la muerte, creeo que JesuCristo murio en la cruz para tomar por castigo por todos mis pecados, te acepto como Rey de la vida Eterna Amén" _URL
+
+Oaxaca _GEO _USR No todo lo que se publica es marxista, pero entiendo que en tu mente farlopera todo es una conspiración marxista. Hay cientos de libros incluso Anti marxistas, pero sigue en tu castillo de ignorancia mi niño... :3
+
+
+--- cluster 4 (23 ocurrencias) ---
+QR _GEO _USR Ahora entiendo porque se las pasan pidiendo moche.
+
+Mexico _GEO _USR Creo que la cámara 📷 de mi iPhone 📱 está descompuesta entonces, ahora entiendo 🤔
+
+Guanajuato _GEO _USR Ahora entiendo porque los hackearon hehe tenían una infraestructura fuerte pero un control de acceso débil xD
+
+Guanajuato _GEO _USR Ahora entiendo porque hiciste puente
+
+Mexico_City _GEO Tengo tanto Alcohol en las Venas que ahora entiendo porque les llaman Vasos.
+
+
+--- cluster 5 (13 ocurrencias) ---
+Jalisco _GEO _USR El punto que voy, entiendo, por que me costo mucho pasar eso, aquí es que la gente busca apapacho en redes cuando lo que tienen que hacer es tratarse… imaginate, ya va a acabar su carrera, sufre y viene a las redes por el apapacho, cómo saldrás a la vida…
+
+Mexico_City _GEO _USR O sea, es que sí pensé en apoyo gubernamental pero entiendo hehe
+
+QR _GEO _USR Me imagino que si en Oaxaca la mayor energía es extranjera, Alejandro Murat apoya Reforma, entiendo las Cías. Están asociadas reparten utilidades con México, si no, pagan impuestos, no?
+
+Zacatecas _GEO _USR buena tarde el Documental Las Cholitas se proyecta en Saltillo? , ayer me aparecía en la página y hoy no, entiendo solo es hoy y mañana, me comentan por favor
+
+Veracruz _GEO Aparte de ridículas mandando WhatsApp para saber mis precios, cuando pueden preguntarme directo. Hasta tips y distribuidores les puedo compartir como colega, pero la raza siempre elige competir y tomar posturas bien extrañas. NO LOS ENTIENDO.
+
+
+--- cluster 6 (19 ocurrencias) ---
+Nayarit _GEO _USR Ahhhh Ahora entiendo lo del Peje, no tiene ningún doctorado, con razón 🤭
+
+Mexico_City _GEO Ahora entiendo a la banda que busca roomie con requisitos como cierta edad u ocupación.
+
+Jalisco _GEO _USR Ahora entiendo todo
+
+BC _GEO _USR Ahora entiendo el comportamiento de pienso ante algunos pacientes quirúrgicos. Ahora resta aplicar la de manejo conjunto con MI y unos días después la de ALTA De cirugía......😁🚩🚩🚩🚩🚩🚩
+
+Veracruz _GEO _USR Es que ese es precisamente el problema … su marido dijo desde un principio que no iba a ver PRIMERA DAMA … ahora entiendo el porque 🤔🤔 pero queriendo ser puede pulir, el problema es que ellos no se dejan ayudar … tal para cuál !! 🤷‍♀️🤷‍♀️🤷‍♀️
+

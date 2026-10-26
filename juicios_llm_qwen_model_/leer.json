@@ -1,0 +1,171 @@
+{
+  "palabra": "leer",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Leer texto o material escrito, como libros, documentos, mensajes, etc."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 53844,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 29021,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 23678,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6658,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 3656,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 37976,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 77307,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10785,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55257,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32804,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 77518,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52616,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30629,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 15740,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62933,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68521,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52868,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57613,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30678,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27890,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12453,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 3007,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7826,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60907,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69762,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 19465,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13645,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38747,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 23760,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 45348,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5978,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13652,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28507,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 26006,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 41840,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 18873,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63601,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5019,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 11096,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 70596,
+      "sentido": "s1"
+    }
+  ]
+}

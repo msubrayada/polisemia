@@ -1,0 +1,179 @@
+{
+  "palabra": "palabras",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Palabras como unidades lingüísticas, elementos del lenguaje que se combinan para formar nuevas palabras."
+    },
+    {
+      "id": "s2",
+      "glosa": "Palabras como expresiones orales o escritas, lo que se dice o escribe para transmitir ideas, sentimientos o información."
+    },
+    {
+      "id": "s3",
+      "glosa": "Palabras en expresiones idiomáticas fijas, como 'en pocas palabras' (resumen), 'en otras palabras' (reformulación), 'tragarse sus palabras' (reconocer un error)."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 7764,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 18694,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 67992,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 32374,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 63292,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 6834,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 9711,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 28780,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 50548,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 51862,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 43006,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 71033,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 28861,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 61090,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 20131,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 6857,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 22666,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 53839,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 43518,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 23567,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 43916,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 51927,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 61154,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 12440,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 3007,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 75956,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 24793,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 7589,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 64620,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 76156,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 48832,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 23252,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 59296,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 53846,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 27697,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 12192,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 51850,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 27616,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 27946,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 12553,
+      "sentido": "s2"
+    }
+  ]
+}

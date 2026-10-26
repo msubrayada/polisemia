@@ -1,0 +1,187 @@
+{
+  "palabra": "hablando",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Hablar sobre un tema (discutir, comentar, mencionar)."
+    },
+    {
+      "id": "s2",
+      "glosa": "Hablar en voz alta o en silencio (conversar, dialogar, hablar con alguien)."
+    },
+    {
+      "id": "s3",
+      "glosa": "Hablar por teléfono (comunicarse a distancia)."
+    },
+    {
+      "id": "s4",
+      "glosa": "Uso adverbial de 'hablando' para indicar un aspecto, perspectiva o manera de hablar."
+    },
+    {
+      "id": "s5",
+      "glosa": "Expresión idiomática 'hablando de orejas' (hablando de lo que no se sabe)."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 7934,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6480,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43401,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 26679,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21835,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13695,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 47459,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 62487,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75795,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 68344,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 23996,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62788,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 63512,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 57499,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 17982,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71166,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 9463,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27183,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 17894,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55805,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 66910,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 33180,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 32037,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 12588,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 44969,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8232,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 65201,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 29885,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 48599,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 44924,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20454,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 23965,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 46139,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 22050,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25216,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 33887,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 53237,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 49725,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 55086,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 29624,
+      "sentido": "s1"
+    }
+  ]
+}

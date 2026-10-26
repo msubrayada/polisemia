@@ -1,0 +1,518 @@
+--------------------------------------------------
+Palabra: busca
+
+--- cluster 0 (15 ocurrencias) ---
+Guanajuato _GEO &lt;&lt;todo indica que Luis Ernesto Ayala está armando alianzas en busca de su proyección como candidato a la gubernatura, por enésima ocasión&gt;&gt;
+
+Sonora _GEO Ando en busca de trabajo, alguien sabe de alguno. Ing. en TI. Y hoy día estudio 2do semestre de Maestría en Educación. #Etchojoa #Navojoa #Hermosillo
+
+Mexico_City _GEO ¡Primer simposio de investigación! Se abordarán las ponencias de: -Cannabidiol blocks cardiac hypertrophy and contractile disfunction in hehert facilite -En busca de la función biológica de las lipoproteínas de alta densidad Y más ¡No te lo pierdas! _URL
+
+Mexico_City _GEO Equipo _USR siempre al servicio en busca del #BienestarEnLaCiudad
+
+BC _GEO En busca de apoyo para pagar la extracción de fijadores externos _URL
+
+
+--- cluster 1 (123 ocurrencias) ---
+Yucatán _GEO _USR Busca a la Dra _USR quizá tiene un documento que puede ayudar . No estoy segura 🤔 pregúntale
+
+Mexico _GEO Le puedo ayudar en algo,busca una talla ? 😈😈😈😈 Q tal estas fotos en el trabajo,quien se arrodilla _URL
+
+Yucatán _GEO _USR En la 62 con la 55. Busca el museo de gastronomía yucateca y en la esquina está la tienda. Muy económicos y cómodos. Había varios que me gustaron. De los tacos, ponle hora y a desayunar!
+
+Jalisco _GEO LA GENTE EXITOSA SIEMPRE BUSCA LA OPORTUNIDAD DE AYUDAR A LOS DEMÁS. LA GENTE QUE FRACASA, SIEMPRE PREGUNTA : ¿Y YO QUE GANO? en ELECTRONICA SAN GABRIEL _URL
+
+Jalisco _GEO Que tal raza, aquí un culito virgen de 25 años, que busca un encuentro... Quien le da verga 🍆🍆🍆🥛🥛🥛🍑🔥 Cuénteme se han chingado culos vírgenes Delen Retweet #gay #Guadalajara #jalisco #EncuentroGay #cruisinggdl Se antoja beso negro y Batirle los mecos _USR _URL
+
+--------------------------------------------------
+Palabra: vida
+
+--- cluster -1 (427 ocurrencias) ---
+Jalisco _GEO Cerca del Fraccionamiento Arvento en el municipio de Tlajomulco de Zúñiga sobre un terreno baldío a un costado de la Av. Adolf Horn cerca de la carretera a Cajititlán fue localizado un hombre sin vida que se encontraba atado de pies y manos. _USR _URL
+
+NL _GEO _USR A seguir dándole de chingazos a la vida padrino, y mucha fe en Dios Ai tamos al pendiente 🙌🏽
+
+NL _GEO Solo Funes es capaz de haces esas fintas... Dios de mi vida el Mellicano de la gente!! 🤩🇲🇽
+
+Veracruz _GEO Gracias por ser mi 911 toda la vida Gordita💕 #Dennys #Gumarito #Panchita _URL
+
+QR _GEO RECORDATORIO: Eres la persona más importante de tu vida y eres aquella persona que te va acompañar por el resto de tus días. Porque tú eres el verdadero amor de tu vida.
+
+
+--- cluster 0 (696 ocurrencias) ---
+NL _GEO Que ganas de ser una señora San Petrina en este momento de mi vida.
+
+Colima _GEO Hay varias cosas en mi vida pasando y trato de poner atención a todo pero me siento abrumado por hoy, por cierto una de esas es que mañana cumplo años
+
+Jalisco _GEO Le conté a Lana del rey como me siento cuando me idólatran y al día siguiente me usan y escribió Carmen. Le conté a lana del rey que al pasar de mi vida he conocido a muchas personas que me han ayudado y escribió beautiful people beautiful problems. 💥 _URL
+
+Yucatán _GEO Odio esta vida llamada: Mi computadora se traba cuando estoy modelando algo que no he guardado. _URL
+
+Mexico_City _GEO Tengo miedo de lo rápido que se me pasan los días, los meses, etc. o de ver los años que puedes pasar sin ver familia o amigos. Debo procurar más por verlos. Ahora entiendo más que nunca la frase de "reloj detén tu caminó por qué mi vida se apaga". Desventajas de ser adulto.
+
+
+--- cluster 1 (76 ocurrencias) ---
+Hidalgo _GEO Todo inevitablemente vuelve a estar bien, aunque la vida a veces te muestra la cara contraria, cada cosa vuelve a su lugar y el sol vuelve a brillar. - Rafael Cabaliere
+
+Mexico_City _GEO #BuenosDiasATodos 🌞 yo voy a agarrar la alegría para abrir los brazos ala vida y sacar la felicidad que tengo para que venga a mí la paz y la fe pueda brillar en mí para que la esperanza me guíe al camino que la vida me ha destinado #FelizDia 🙋 _URL
+
+Veracruz _GEO “Métale huevos carajo , que la vida entienda quien vergas manda aquí “
+
+Mexico _GEO Decir adiós no siempre es motivo de tristeza. A veces es una señal de que la vida tiene preparadas nuevas y bonitas aventuras. _URL
+
+Puebla _GEO Hace 4 años hoy nos dejó el Tano; Ricardo Héctor Bardaré decia su documento. La vida lo golpeó duro al tano, lo quebró, intentó reconstruirse, la vida nos cruzó en una esquina de Flores, Condarco y Avellaneda, compartimos el trabajo y alegrias, hasta siempre hermano! _URL
+
+
+--- cluster 2 (100 ocurrencias) ---
+Sonora _GEO Porque simplemente ya no estamos para esperar nada, tampoco estamos para vivir entre ilusiones que al despertar, todo es un caos. En este punto de la vida solo queremos estar tranquilos y vivir en paz.
+
+Querétaro _GEO En la vida hay que DISFRUTAR De los buenos MOMENTOS y De los buenos RECUERDOS _URL
+
+Jalisco _GEO En la vida soy _USR viendo como todos se atacan con los comentarios de _USR #LaMasDraga #LaMasDraga4T _USR _URL
+
+NL _GEO Raza chingue en la vida, Shehen me reembolso lo que pedí por qué se tardó semanas en llegar y aún así me mandaron el pedido♥️ ropita gratis chekkk
+
+QR _GEO Hay momentos en la vida que nos cambian por siempre #tulum #turismoqroo
+
+
+--- cluster 3 (442 ocurrencias) ---
+BC _GEO Me siento muy bendecida y afortunada de que este grandioso hombre sea mi padre. Me ha enseñado lo importante y fundamental de la vida, predicando con su ejemplo siendo siempre honrado, trabajador, noble y un poco estricto, (bieeen poquito la neta 😅)…
+
+Mexico_City _GEO _USR Así combate la corrupción el MESÍAS BANANERO, así dejando a los criminales sueltos gozando de la vida mientras a gente INOCENTE la culpan por tan solo no pensar como el _URL
+
+Mexico_City _GEO El amor más leal, sincero, duradero de la vida es el que tengo con Jaque. Es mi pilar y yo soy el suyo.
+
+QR _GEO La vida es corta y el mundo es ancho 🌎 @ Isla Mujeres _URL
+
+Yucatán _GEO Llegamos a los 26 años este 2021; gracias doy a la vida, a mis amistades, a mi familia, a mis redes de apoyo y a la gente que día a día procura mi felicidad y seguridad. Siempre pido un deseo por cada año, así que hoy tengo 26 que pedir 💜💫. _URL
+
+
+--- cluster 4 (213 ocurrencias) ---
+Guerrero _GEO Le pido al universo que me de vida para hacerte feliz cada día de nuestra existencia y que haga eterno esto amor entre nosotras ♥️ Te amo con el alma entera cariño _USR 🥺♥️😍 _URL
+
+Mexico_City _GEO Hoy soy solo un chacal pintor en esta obra llamada vida.😎 _URL
+
+Coahuila _GEO Se escucha muy enfermo pero escuchar llorar a la gente me da vida
+
+NL _GEO Todos venimos a este mundo cargados de #dones y #basura. Cada quien tiene su propio camino específico, pero todos compartimos una misión de vida general. La tarea es transformar nuestra basura y conectarnos con nuestros dones, y la mejor forma es a través de acciones positivas.
+
+Aguascalientes _GEO 👌 acciones en pro de los animales nuestros amigos- mascotas- compañeros de vida saludable de 🏡 🏠 🏚 se lo merecen !
+
+--------------------------------------------------
+Palabra: esperar
+
+--- cluster -1 (28 ocurrencias) ---
+Tabasco _GEO Hoy me puse la segunda dosis pero la neta que de la vg esperar 8 horas parado como pene
+
+Querétaro _GEO Seguro es mentira lo que dijo, que podemos esperar
+
+Zacatecas _GEO Solo queda esperar para empezar a planear esta nueva etapa en mi vida joven adulta.
+
+Mexico_City _GEO _USR Esperar todo el año esta temporada para que haga un calor insoportable 🥵
+
+Puebla _GEO Si no tienen estrategia en sus propias oficinas, no podemos esperar que la reflejen en el país. Eso lo explica todo. _USR _URL
+
+
+--- cluster 0 (14 ocurrencias) ---
+Mexico _GEO Se dieron cuenta que lo que más lástima es esperar??? esperar que una persona reaccione como nos gustaría, esperar cambios, esperar respeto, esperar amor, esperar que nos den lo mismo que damos, esperar es la parte más triste.
+
+Mexico _GEO Se dieron cuenta que lo que más lástima es esperar??? esperar que una persona reaccione como nos gustaría, esperar cambios, esperar respeto, esperar amor, esperar que nos den lo mismo que damos, esperar es la parte más triste.
+
+BC _GEO "Esperar que la vida te trate bien por ser buena persona es como esperar que un tigre no te ataque por ser vegetariano". - Dennis Wholey _URL
+
+Sinaloa _GEO Se antoja un buen de pan dulce para esperar a que arrecie la lluvia…
+
+Mexico _GEO Se dieron cuenta que lo que más lástima es esperar??? esperar que una persona reaccione como nos gustaría, esperar cambios, esperar respeto, esperar amor, esperar que nos den lo mismo que damos, esperar es la parte más triste.
+
+
+--- cluster 1 (12 ocurrencias) ---
+Mexico _GEO Si el CM de la SEP no sabe ni escribir correctamente el usuario de la Secretaria ¿qué podemos esperar? 🙄
+
+NL _GEO _USR Fue Alcaldesa de Las Chapas, Ver., no pueden esperar mucho de esta idiota.
+
+SLP _GEO _USR PS es de la camarilla del _USR Que podemos esperar: Mentiras y más Mentiras.
+
+Sinaloa _GEO _USR Si no se puede esperar mucho a nada de alguien que viste así.
+
+Nayarit _GEO No entiendo como andan con personas tan inseguras... Si te hace drama por 1 like o porque comentan tus fotos, ¿qué puedes esperar más adelante?... Ojo con eso, también es violencia. Quieranse y respetense
+
+
+--- cluster 2 (29 ocurrencias) ---
+NL _GEO Ni el prro de _USR me felicitó. ¿Que puedo esperar del nuevo gobierno de Samuel García?
+
+Guanajuato _GEO _USR Pero que se puede esperar de esta clase de gente, hasta el porte tiene como el tartufo. Todo un remiendo de socialista fracasado!!!
+
+Mexico_City _GEO _USR Si este comentario lo realiza el titular de una dependencia, que te puedes esperar, en verdad sin comentarios.....
+
+Mexico_City _GEO _USR Que se puede esperar de la farsante botarga de la derecha, la Cavernícola de Bulgaria !!
+
+Puebla _GEO _USR Pues si aquí el presidente dice tonterías de nuestra historia, que podemos esperar de alguien no mexicano y que no estudio historia aquí.
+
+
+--- cluster 3 (47 ocurrencias) ---
+Chihuahua _GEO Después de ver los vídeos del concierto de Chris ayer dedicándole canciones a Beli lo ❤️ 🐼 Necesito POR EL RESTO DE TU VIDA ya soy lágrimas 🥺😭 Cuánto tiempo más tenemos que esperar??
+
+Mexico_City _GEO _USR ayer y hoy he tenido errores en los retiros a cuenta, resulta que ahora tengo que marcar a mis contactos a pedirles reembolsos de depósitos que no tuvieron que haberse hecho en primer lugar y aparte de todo debo esperar 48 horas 🤬 para que ustedes solucione
+
+SLP _GEO _USR koleos versión de entrada es una buena opción? CX5, RAV4 no hay en inventario. Somos una familia de 3 que busca espacio y confort en salidas a carretera o es mejor esperar a que llegue otra. Por cierto los extrañé ayer en el programa! Abrazos
+
+Jalisco _GEO _USR Gracias chaparrito, acá no nos dieron nada. Pero ya intenté con el numero si funciona solo tengo que esperar un poco para que la info se refleje en línea m
+
+Mexico_City _GEO _USR Eso me dicen siempre. Necesito cancelar, ya no puedo esperar más. Gracias! _USR
+
+
+--- cluster 4 (8 ocurrencias) ---
+NL _GEO Queremos que nuestros alumnos conozcan las diferentes formas en las que pueden ser honestos para que siempre actúen de la mejor manera sin esperar nada a cambio. #October #monthlyvalues #honesty #ThehellsInstitute. #colegioscumbres _URL
+
+Sonora _GEO Porque simplemente ya no estamos para esperar nada, tampoco estamos para vivir entre ilusiones que al despertar, todo es un caos. En este punto de la vida solo queremos estar tranquilos y vivir en paz.
+
+Mexico_City _GEO También existen cosas que uno quiere pasar en pareja, sin esperar a que pase una boda
+
+Mexico_City _GEO Hace un par de meses decidí despedirme de mi uniforme, mi pañoleta y mi grupo. Pero esta foto es especial porque me recuerda el trabajo que hay detrás de esa sonrisa.... En el clan aprendí lo que es servir sin esperar NADA a cambio y lo gratificante que es ayudar a otros ❤️ _URL
+
+Mexico _GEO ✨Tu dalo todo sin esperar nada a cambio✨ ¡No quedará en ti si lo valoran o no!
+
+
+--- cluster 5 (17 ocurrencias) ---
+Jalisco _GEO La única sala donde si me gusta esperar ✈️ _URL
+
+Mexico_City _GEO _USR Chuladas. A esperar fecha.
+
+Mexico _GEO Me alegra saber que mi madre ya recibió su 2da dosis, ya ahora si junto con mi abuela me siento alivianado, solo faltamos mi hermano y yo pero a esperar unos días mas. 🙏😭
+
+SLP _GEO _USR Ahora a esperar a mañana para ver los resultados amarillistas que ponen, recuerden noticieros;diarrea,dolor de cabeza, tos,un estornudo, si se llega a caer algún alumno en el recreo cuenta como covid y lo multiplican *10 veces por cada escuela para que así sean 10,000 contagios
+
+Guanajuato _GEO Ya no más esperar el putazo. _URL
+
+
+--- cluster 6 (12 ocurrencias) ---
+NL _GEO No cené por esperar a mis amigas y al final ni vinieron. Pinches viejas.
+
+Sinaloa _GEO Serían yo pidiendo un chaha frappe con unos dedos de queso para esperar a mi mamá en su cumpleaños?
+
+Querétaro _GEO Llevo meses diciéndole a mis chicos que aprendan a esperar, que todo llega a su tiempo... y es lo único que no he podido hacer caray
+
+Mexico_City _GEO _USR En Taxqueña me es necesario esperar a una persona dentro de la terminal, ahí tengo que salir y pagar nuevamente el pasaje, por eso no me bajo del tren y tengo que hacer esa maniobra.
+
+Guanajuato _GEO Me encanta hacer esperar a la gente desesperada. 🤣🤣
+
+--------------------------------------------------
+Palabra: leer
+
+--- cluster -1 (31 ocurrencias) ---
+SLP _GEO HAY UNA PUTA CONVOCATORIA CON TODA LA INFORMACIÓN QUE NECESITAS SABER Y CON LAS FECHAS IMPORTANTES. ¿POR QUÉ CHINGADOS LES CUESTA TANTO LEER? TODO QUIEREN QUE SE LO DEN. PTM
+
+Jalisco _GEO Su estadp depresivo le da para blockear y leer twitts? Ademas tener cel en prison?
+
+Yucatán _GEO _USR De que, dilo con confianza me gusta leer que digan cosas asi
+
+Mexico_City _GEO Regalito de 50,000 followers gracias por seguir mis locuras, desde las cuentas anteriores de verdad leer sus comentarios todos los días y que les guste mi material me encanta y me hace feliz 🙂 gracias por estar aquí besitos 😽 _URL
+
+Querétaro _GEO Acabo de adquirir el número de neurociencia y psicología donde se habla de el cerebro adolescente, y no saben qué feliz soy. Ya tenía tiempo sin leer algo afín a mi vocación(:
+
+
+--- cluster 0 (32 ocurrencias) ---
+Mexico _GEO Pasen a leer la columna de uno de los mejores periodistas que conozco y uno de los que más admiro _USR
+
+Durango _GEO En la Comarca Lagunera, una vez más hicimos historia acordando y dialogando sobre un tema de mayúscula importancia para la región. _USR Les invito a leer y compartir la columna de _USR Acuerdos Saludables para la Laguna _URL via _USR
+
+Jalisco _GEO Deben leer a _USR , _USR , _USR , _USR , _USR . "La dirigencia del PRI sabe que un voto a favor de la reforma energética es también un voto para hacer añicos la reputación endeble del partido." _URL
+
+Mexico_City _GEO Tarde de leer a _USR 🤓💥 No se pierdan la presentación del nuevo número de la revista _USR en donde comentaremos este y otros textos acerca del futuro de los partidos políticos. Jueves 14 a las 16:00h. Registro: _URL _URL
+
+Jalisco _GEO _USR Te recomiendo leer este texto 👇 _URL
+
+
+--- cluster 1 (16 ocurrencias) ---
+Tamaulipas _GEO _USR ¿Pero acabo de leer? 😳 _URL
+
+Tamaulipas _GEO _USR ¿Pero que acabo de leer? 😳 _URL
+
+Morelos _GEO #Opinión 🔴 Altares y cocina de identidad, el artículo de opinión que hay que leer para iniciar la semana. Escriben Marley Flores y Lisset Vildózola 😋🙌 _URL #Morelos #Cuernavaca _URL
+
+Sinaloa _GEO Acabó de leer el post de un pediatra que sigo en fb sobre NO fajar a los bebés supuestamente para que no les quede feo el ombligo, neta no lo hagan con sus bendis jamás faje a MA y un día una visita terca la fajo🥲 tuvo mucho vómito súper feo y no paraba de llorar 🥺
+
+NL _GEO _USR Te iba a contestar una mamada, pero despues sacas tus cosas de...🎣... asi q mejor lo q tu quieras leer. #VivaFunesMore #Me11izo #elmejorddNL Asi esta mejor?
+
+
+--- cluster 2 (41 ocurrencias) ---
+Veracruz _GEO _USR Preguntas de un opositor 1. Sabes leer? 2. Tienes alguien que lea todo lo que te contestaron? 3. Entendiste algo? 4. Necesitas que te lo pongan con manzanas? 5. Prefieres que lo pongan en audio? 6. Ya estás arrepentido de la estupidez que escribiste? 7. Quieres más croquetas?
+
+Morelos _GEO _USR Otro que no sabe leer como _USR
+
+Mexico_City _GEO _USR No sabe leer, no hay diferencia entre las citas que hace de los tuitsy, su absurda corrección. Para mí que ni para hacer el amor jadea así.
+
+Guanajuato _GEO _USR Pobre señora _USR ni si quiera puede leer de manera correcta, que podemos esperar de la mal llamada contrarreforma del inepto de palacio 🤔🤔🤔
+
+Mexico _GEO _USR Saliste en la tele!!!! Lastima que la seño Vilchis ni siquiera pueda leer de corrido tu nombre sin que se trabe.
+
+
+--- cluster 3 (17 ocurrencias) ---
+NL _GEO _USR Nunca he perdido mi tiempo viendo la mañanera, pero dudo mucho que la pobre haya aprendido a leer, lo de ell _USR es difamar, aunque sea tartamudeando. Te mando un abrazo desde Monterrey
+
+Chihuahua _GEO De verdad que la educación está mal, a su edad debería leer de manera fluida y correcta, sus pensamientos deberían ser coherentes, que pena, si como lee "hace el análisis de las noticias", ese es el reflejo de la administración pejista...
+
+QR _GEO _USR Ay mija, aprenda a leer. Una adolescente embarazada se persigue como abuso sexual de oficio. Una adolescente embarazada es una víctima.
+
+Yucatán _GEO _USR por Dios nena, aprende a leer. Puedes decir verdades o mentiras, pero si al menos tuvieras la presencia, la dicción, entonación…. pero si ni leer sabes, pues no, solo das pena ajena. Ahí medítalo, todos pueden superarse
+
+Mexico_City _GEO Hay que aprender a leer. Discutimos sobre el FIASCO de la "justicia"
+
+
+--- cluster 4 (21 ocurrencias) ---
+Veracruz _GEO _USR No sabes como necesitaba escuchar esto. O leer. En todo caso.
+
+Jalisco _GEO _USR Con este gobierno que está eliminando toda la historia ni ganas me dan de leer ✌️y mucho menos si es el cambio de la 4t💩👍
+
+Chiapas _GEO Ser adulta sin hij _USR y no saber decidir si comprarte un wok para cocinar o un libro para leer
+
+Querétaro _GEO _USR Póngase a leer abra lo ojos su partido es lo peor que ha tenido este país..
+
+NL _GEO _USR Yo por eso así para alcanzar a leer. _URL
+
+
+--- cluster 5 (22 ocurrencias) ---
+Mexico_City _GEO Estamos pensando en algo asi d nuevo con el q empezamos algo relax no entendio q esto es muy diferente al ambiente y ya, se fue. Pero lo vamos a volver a intentarlo obvio se tiene q leer mucho para entender como se vive esta forma y lo aremos con un single o una chica bi o porque
+
+Mexico_City _GEO Pues nada, la única cuenta hetero que vale la pena leer LO VOLVIÓ A HACER 💅🏽
+
+Hidalgo _GEO _USR Tenemos el mal hábito de no leer y documentarnos de algo de nuestro interés y terminamos hablando p..... das
+
+Mexico_City _GEO Para qué leer sobre gente tóxica? Si ya con mi historia autodestructiva tengo para una tesis de doctorado.
+
+Chiapas _GEO Aún dormiré estaba ayudando con geografía a mi sobrinita, vaya ya todo es investiga en internet, antes venía todo en los libros nosotros teníamos que leer y buscar las respuestas ahí 🙄 ya solo falta que no se aprendan el nombre y ubicación de los estados en el mapa
+
+
+--- cluster 6 (25 ocurrencias) ---
+Jalisco _GEO Que triste leer esto💔 que el alma de tu papá descanse en paz y Dios les dé fortaleza a la familia.
+
+Veracruz _GEO “La única soberanía, igualdad y dignidad, plenamente humanas, son las que se viven en libertad. Cuando un régimen no te fuerza a elegir entre él y tu familia.” A nuestros padres _URL #ArmandoChaguaceda _USR BRUTAL. Leer.
+
+Puebla _GEO Habiendo pendejos como éste, aún hay otros idiotas que siguen creyendo que lo social de alguna forma puede pasar como ciencia. Ahora resulta que la sociedad mexica era 'sofisticada' y 'compleja' (Leer el hilo completo, es imperdible)
+
+Sonora _GEO leer todo el hilo...son unos viles delincuentes, que cabrón
+
+Mexico _GEO Poder Edomex "De Estirpe Guerrera", Novela que Deben Leer Hoy los Mexicanos _URL
+
+
+--- cluster 7 (28 ocurrencias) ---
+Tamaulipas _GEO De todos los años que me tocó tomar esas madres por orden médica, una sola vez me detuve a abrir y leer semejante papelote, terminé llorando y no quise volver a tomarlas en mi vida u.u
+
+Sonora _GEO _USR Espero siempre ser protagonista por exigir que se dé una explicación amplia para su análisis y deliberación, dos horas para leer el convenio tan transcendental, si lo único que se pedía era analizarlo en esa mesa, nada más, creo que puede ser bueno el mando único
+
+Mexico_City _GEO En cuanto a contenidos culturales yo quiero alcanzar a ver completa la tercera trilogía de Star Wars, alcanzar a ver pelis de una posible Fase 5 del MCU, leer el último libro de la saga de Cormoran Strike y ver varias pelis más de Star Trek y los nuevo reboots de BSG y QaF.
+
+Veracruz _GEO _USR Historias que no me gustan leer, son historias que no deberían de suceder en México en el siglo 21. La falta de educación, la falta de una legislación que prohíba esas aberraciones así como justicia, promueven que se siga dando esto y con aprobación de López Obrador, lamentable.
+
+Guanajuato _GEO Yo porque publican maratones de historias tan tarde: 😒 Yo desvelándome por leer maratones tan tarde: 👇🏽 _URL
+
+
+--- cluster 8 (19 ocurrencias) ---
+Puebla _GEO _USR Da miedo leer eso, lo mismo dijo YSQ AL PRESENTAR SU GABINETE
+
+Zacatecas _GEO _USR Chale realmente no necesitaba leer esto porque #related
+
+Mexico _GEO #ladofdefrankenvivo ahora si vas a leer mi mensaje 😬 saludos desde Acolman 😅
+
+Mexico_City _GEO _USR No sabes la felicidad que me causa leer este tipo de comentarios tuyos 💚💫 Tomaste la mejor decisión... Incluso en conservar esta amistad
+
+Sinaloa _GEO Que bonito leer esta madrugada : "es día libre por la lluvia", se cancela el servicio social. 🥳😃
+
+--------------------------------------------------
+Palabra: verde
+
+--- cluster -1 (4 ocurrencias) ---
+Guanajuato _GEO La puerta está muy grande, la luz se puso el verde y si no se ha marchado es porque usted no quiere...🎶
+
+Mexico_City _GEO Iniciamos la entrega de la nueva tarjeta 💳 Bienestar para 👧🏻 niñas y 🧒🏻 niños #MiBecaParaEmpezar, que a partir del 🗓️ 1 de diciembre sustituye a la tarjeta verde, la cual tendrá mayores beneficios. 👍 #BienestarEnLaCiudad _URL
+
+Mexico_City _GEO Hola de nuevo, amigos de _USR Vuelto a reportar falta de suministro de agua. Domicilio: Hacienda la Purísima 77, Col. Prados del Rosario, Azcapotzalco, CP 02410. Entre Rancho Anzaldo y Rancho Tarango. Casa verde, de dos aguas. Atención: Sra. María del Carman Polina Franco.
+
+Guanajuato _GEO _USR Te a tocado el semáforo de López Mateos, esquina Fco villa? Rumbo a poliforum...jaja el verde dura 5 segundos jAjA una mentada de madre y alcanzamos a pasar más carros jAjA
+
+
+--- cluster 0 (9 ocurrencias) ---
+Guerrero _GEO Me consta que las becas para los alumnos de Primaria, no se dieron por parte del gobierno. Madres y padres de familia de la Region Norte de Guerrero, han preguntado a los directores y estos han contestado, que no hay luz verde por parte del gobierno. Así que no hubo :2021-2022.
+
+Mexico_City _GEO Buenos días. Complicaciones en Av San Fernando debido al semáforo de Viaducto Tlalpan, el cual está mal sincronizado (dura 10 segundos la luz verde). Se solicita atención _USR _URL
+
+Querétaro _GEO El sábado vi a un grupito de niños jugando "luz verde, luz roja", tenían entre 8 y 10 años. Y ya, esa era toda mi queja... DIGO, MI TUIT!!!
+
+Sonora _GEO Mis vecinitos jugando luz verde, luz roja en la cancha de mi barrio 🥰...espera son niños🤔...¡¿Que vergas hacen viendo el juego el Calamar?!😱
+
+Mexico_City _GEO ¡Ni un alma! Así están algunas partes de CDMEX y en pocos días estaremos en semáforo verde 🚦#Verde #México #Mundo _URL
+
+
+--- cluster 1 (7 ocurrencias) ---
+Mexico_City _GEO _USR Siempre en verde. Un gusto saludarte. Un abrazo afectuoso 🤗
+
+NL _GEO _USR Y usted si 🤔🤔 no se ve tan futbolero que digamos Aparte es mi comentario si no te gusta está en verde viejo
+
+Mexico _GEO _USR Es mi móvil o todo el video se mira el verde como si estuviera rayado.
+
+Mexico_City _GEO _USR Alguien movió el semáforo que está en la esquina de Av. Arenal y Viaducto Tlalpan. Dura en verde cinco segundos y lleva dos semanas causando un tráfico terrible sobre Arenal. _URL
+
+Jalisco _GEO Círculo de invocación para: 🕯 🕯 🕯 🕯 🕯Que la especialidad que🕯 quiero esté en verde 🕯el día de la elección 🕯 🕯 🕯 #ENARM
+
+
+--- cluster 2 (102 ocurrencias) ---
+Querétaro _GEO _USR El partido verde es lo menos democratico 👌👌👌
+
+NL _GEO El futuro es Verde. en Aeropuerto Internacional De Mty Terminal C _URL
+
+Mexico_City _GEO _USR necesitamos transitar hacia alternativas de energía renovables y no contaminantes. ¡No más combustibles fósiles! México merece un futuro verde y digno. @
+
+NL _GEO Disponible valle verde mty 🤑 Manda Md para info 🤑 #TetasMamables #TetasPerversas #tetasgrande #tetastwt #tetasyalgomás #tetas #escort #sexoservidora #CulonasEnLaCalle #tetastwt #TetasMamables #TetasMaravillosas #nalgonavip #NalgasQueEnamoran #Nalgotas #transexualmty #escort _URL
+
+NL _GEO _USR El único "partido? " _USR en mexico que se dice llamar verde pero en realidad es negro, es muy cierto y no se exagera...
+
+--------------------------------------------------
+Palabra: confianza
+
+--- cluster 0 (6 ocurrencias) ---
+Mexico_City _GEO La reunión con Ebrard 👇 Si México cree que puede abrazar a China y a la vez pedir cooperación y confianza de EU, muy pronto se dará cuenta de que está muy equivocado _USR _URL vía _USR
+
+Mexico_City _GEO _USR Así es, han perdido la confianza del pueblo por farsantes doble moral, como se atreve esta vende patrias hablar así de una personalidad y líder genuino como nuestro presidente. Arriba el prestigio de López Obrador.
+
+Mexico_City _GEO Esto es imperdible, abramos muy bien los ojos, un criminal desquiciado como este cobarde, no merece la confianza del pueblo de México, en un puesto estrategico tan importante para el sistema de justicia de la nación . _USR _USR
+
+Mexico_City _GEO _USR quieren ganarse la confianza del pueblo mexicano subir sus pts de aceptación... Fácil.. desaganse de _USR y _USR empiecen limpieza profunda... Dejen de atacar y comiencen hacer...#LunesDeMotivacion
+
+Sonora _GEO La _USR se ha ganado a pulso la confianza de la ciudadanía gracias a su vinculación social: por medio de los distintos bufetes, laboratorios y centros de asesoría y consultoría, otorga un promedio anual de más de 20 mil servicios profesionales. _URL
+
+
+--- cluster 1 (108 ocurrencias) ---
+Coahuila _GEO _USR Perdón, yo lo que leo de esa gráfica es la CONFIANZA, no dice nada de ser el mejor. Esto último se da con resultados, que esperemos se den. Suerte Gobernador.
+
+Tabasco _GEO Mi jefe de la uni me tiene mucha confianza, él es tan lindo conmigo, pero siempre respetuoso, o sea es una maravillosa persona 😊
+
+Zacatecas _GEO desahogarte Cuéntame tus problemas con confianza siempre estare para ti , al segundo dia ya ni contestan ;(
+
+Mexico _GEO _USR De acuerdo bro pero no es el unico que esta sujeto a críticas abiertas, saben a lo que están expuestos y deben daber afrontarlo como profesionales, habra que ver si recupera la confianza
+
+Jalisco _GEO El aire acondicionado en _USR se limpia en cada vuelta, chequen que esta 👌🏼👌🏼 para que asistan con confianza!
+
+--------------------------------------------------
+Palabra: chido
+
+--- cluster -1 (22 ocurrencias) ---
+QR _GEO Tzzzz _USR por qué ya no sale el pan Bimbo Kids? Estaba bien chido, para los chihibos
+
+Zacatecas _GEO _USR si depila chido te deja todo suavecito
+
+Mexico_City _GEO Sí, muy chido el #VL22 pero antes nos vamos a echar el bailongo con la máquina destructora🤙🤙🤙 _URL
+
+Chihuahua _GEO No es lo mío, pero esta chido para limpiar paladar y conocer otras cosas. #PoderosoMePoneDeBuenas
+
+Mexico _GEO Sí te mamas, la neta, acéptalo Esta chido, pero calma
+
+
+--- cluster 0 (19 ocurrencias) ---
+Jalisco _GEO _USR Es chido la verdad por qué te das vacaciones cuando quieras solo el problema es el trabajo que cae pues por eso estoy volviendo si no me quedo hasta el próximo lunes jaja
+
+Mexico _GEO Me he sentido un poco extraña últimamente, pero supongo que han sido días de reflexión y de alejarme de personas y esta chido,me parece bien el alejarte y darme cuenta de como son en realidad.
+
+Mexico _GEO _USR Y está cambiando a lo irrelevante. Jon Kent gay? Chido , y? Si eso es todo lo que ofrecen los cómics hoy, mejor me quedo leyendo mangas.
+
+Puebla _GEO Ya es 6 de octubre y acabo de recordar que hace 3 años por estas fechas estaba bien pinche enamorado. Que grato recordarlo chido, ya sin dolor, ni rencores. 🤟🏼
+
+Jalisco _GEO No es una carrera, es lo chido de mi trabajo, uno de los tantos trayecto que recorro cada día caminando y entregando documentos. Son 4 repeticiones al 70% en caminata media fuerte. Cosas de la Hacienda Pública. _USR #Refundación _URL
+
+
+--- cluster 1 (5 ocurrencias) ---
+Querétaro _GEO Un caldito de pollo bien caliente y un té de manzanilla hirviendo y se reinicia el módem bien chido... Estúpida tos 😤😷
+
+Campeche _GEO Ahora sí me urge un piedrero que me venda un teléfono chido en $200 🥺
+
+Michoacán _GEO Anoche estaba agarrando el sueño bien chido cuando empezó a temblar despacito, entonces decidí quedarme acostado y me que llegara el dulce beso de la muerte. No pasó :(
+
+Mexico_City _GEO Que tiempos de conciertos de Catfish and the bottlemen 2014, el público bien chido y un único disco que valía la pena.
+
+Veracruz _GEO Las canciones de Matisse me dan un chingo de sentimiento y llegan bien chido. Y no, no hay motivo.
+
+
+--- cluster 2 (15 ocurrencias) ---
+Michoacán _GEO _USR Los que no quieren regatear y son respetuosos. Si me atraen físicamente y/o nos llevamos bien, es un plus muy chido pero no es necesario.
+
+Veracruz _GEO _USR Felicidades don _USR que se la pase super chido en su cumpleaños!!! 🎉🎉🎉🎊🎊🎊🎈🎈🎈🎂🎂🎂🎁🎁🎁 #RicardoSalinas Cumpleaños 😌 _URL
+
+Sonora _GEO Me la pase bien chido en el beis 🧡 _URL
+
+Jalisco _GEO ¡Espero estén teniendo un martes igual de chido que el mío! 🥰 _URL
+
+Guanajuato _GEO _USR Yo solo fui 1 vez pero fui sin reservación ni nada y todo normal, no recuerdo cuanto fue exactamente, pero de 150 no pasaba ligue chido, lo q uno toma es aparte pero pues está bien supongo, estuvo kool, derrepente está solo derrepente se pone ambiente ya depende del día y hora
+
+
+--- cluster 3 (17 ocurrencias) ---
+NL _GEO _USR wey, sorry la demora hoy casi no me metí a Tw. Feliz cumpleaños, Dios te bendiga, espero la hayas pasado chido compadre! Saludos.
+
+Mexico_City _GEO _USR Doc apenas te despertaste? 🤨😒 Buenos diaaaaaaaas, cuídate mucho y que te vaya más que chido 😃🤜🤛🙏😝
+
+Veracruz _GEO _USR Se ve chido wey jAjA
+
+Puebla _GEO La neta quiero ir el domingo a ver Dune (joyita de película) pero no quiero ir solo y me da un chingo de pena invitar a alguien xd en especial si es mujer pq siento que me va a decir k no y voy a decir a chido y ya no voy a querer ir xd pinches problemas k me cargó xdd
+
+Coahuila _GEO Parece que te esta yendo chido económicamente hasta que tienes que comprar cápsulas de café.
+
+
+--- cluster 4 (6 ocurrencias) ---
+Tabasco _GEO Y cuando creía que me la había pelado el bicho resulta que voy a necesitar una tercera inyección. El team pfizer ya no está tan chido.
+
+Chihuahua _GEO _USR Burguer king también está chido, pero acá donde vivo no han vuelto a abrir las máquinas de refill desde que empezó la pandemia
+
+Mexico_City _GEO Cual helicóptero está más chido el de Axelroad o el de los de Succesion? #PoderosaRaza
+
+Tabasco _GEO _USR Es que una cosa es echar un polvo, como dicen los argentinos, pero echarte un polvo en el polvo pos no ha de estar chido, jAjA
+
+Hidalgo _GEO _USR No lo sé bro, pero las agruras y el reflujo cada que como algo no está tan chido tampoco
+
+
+--- cluster 5 (12 ocurrencias) ---
+Mexico_City _GEO Hubiera estado bien chido armar la tripleta: Mula el 22, Bauhaus el 23 y Cariño el 24, pero ya no alcancé para el último. Ni modo.
+
+BCS _GEO Estoy en un grupo de WA de fans de los _USR y neta que son la mamada, está bien chido textear con fans igual de hueso colorado like me. #RavensFlock
+
+Morelos _GEO Okay ,pero hacer como que somos dos desconocidos no está chido .
+
+NL _GEO _USR Que pasa Dianita, aquí estamos si quieres hablar de ello, porque no está chido quedarse con el sentimiento
+
+NL _GEO _USR Oye tío _USR , estaría chido que al medio tiempo y al final del encuentro pongan los goles que anoten las _USR , esperando que sean muchos goles. No lo sé, piénsalo 👀
+
+
+--- cluster 6 (5 ocurrencias) ---
+Mexico_City _GEO Que chido que tiraron paro a la banda , esos ponches conductores se van a quedar sin espejos sin licencia y con los autos dañados ya me tienen hasta la madre los carros
+
+NL _GEO Que chido que van a abrir la frontera, ahora solo ver si llegamos vivos al cruzar por Reynosa y Nuevo Laredo.
+
+Mexico_City _GEO Hay veces que mi suerte Y mi fortuna me asombran y me hacen dudar de mi ateísmo... Estás ahí dios? Que chido te portaste hoy!
+
+Chihuahua _GEO _USR Ajala que chido, cómo quedó el juego?
+
+NL _GEO Que chido que te digan "miamor" A mí nomás me ven y me dicen forjate wey
+
+--------------------------------------------------
+Palabra: entiendo
+
+--- cluster 0 (128 ocurrencias) ---
+Oaxaca _GEO _USR Te entiendo perfectamente; me pasé 3 días así, pero valió la pena. ¡Que te mejores Gabo!
+
+NL _GEO _USR Aunque si se pasa de los 3 meses no pasa nada con la eficacia de la primera dosis, pero entiendo que la mayoría de la gente ya anda desesperada
+
+NL _GEO _USR Ahora lo entiendo Todo, mi depresión y alcoholismo (sarcasmo) tienen nombre: los acusaría pero los amó tanto a 😥caray soy codependiente también,..
+
+Veracruz _GEO _USR Es que ese es precisamente el problema … su marido dijo desde un principio que no iba a ver PRIMERA DAMA … ahora entiendo el porque 🤔🤔 pero queriendo ser puede pulir, el problema es que ellos no se dejan ayudar … tal para cuál !! 🤷‍♀️🤷‍♀️🤷‍♀️
+
+Yucatán _GEO Entiendo que los niños son niños, pero que estén corriendo por toda la tienda y la mamá no les diga nada 😖😖😖😖😖😖
+
+
+--- cluster 1 (111 ocurrencias) ---
+BCS _GEO No entiendo a la gente que no le dura la pila del cel, llevo desde las 5:30AM despierta y dándome uso y aún tengo 27%
+
+Mexico_City _GEO No entiendo a la gente que se disculpa por todo. Inclusive de las cosas que no están bajo su control. 🤷🏻‍♂️
+
+Jalisco _GEO No puedo dejarte ir, no todavía… y no entiendo porque /:
+
+Veracruz _GEO No entiendo cómo hacer referencia al #DiaInternacionaldelaNina cuando usan frases referentes a “los niños” 🙄🤷🏻‍♀️
+
+QR _GEO _USR De verdad no entiendo ¿porqué no saben cuando es más conveniente ya no comentar nada? Simón se cayó y todavía disfrutó revolcarse en el lodo Shalom alejem Simón Saludos a _USR
+

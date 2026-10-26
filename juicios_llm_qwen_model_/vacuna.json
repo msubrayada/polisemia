@@ -1,0 +1,171 @@
+{
+  "palabra": "vacuna",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Sustancia biológica inyectada para prevenir enfermedades, especialmente en el contexto de la pandemia de COVID-19."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 74697,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 77832,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55339,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67089,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8574,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 47649,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69012,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32521,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76282,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55431,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60518,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13946,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71346,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6354,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30809,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 66923,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64805,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8925,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59229,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30722,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 70009,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55916,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 36470,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12068,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 45180,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56557,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61003,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8727,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21207,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 73572,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 46206,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28283,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 47712,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71578,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 50592,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 51329,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 34021,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54428,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 50107,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42762,
+      "sentido": "s1"
+    }
+  ]
+}

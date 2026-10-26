@@ -1,0 +1,183 @@
+{
+  "palabra": "dolor",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Dolor físico: Sensación de malestar o sufrimiento en el cuerpo, como dolor de cabeza, dolor de brazo, dolor de cuerpo, etc."
+    },
+    {
+      "id": "s2",
+      "glosa": "Dolor emocional/psicológico: Sufrimiento emocional, tristeza, pena, dolor del alma, dolor por una pérdida, etc."
+    },
+    {
+      "id": "s3",
+      "glosa": "Dolor figurado/idiomático: Uso de \"dolor\" en expresiones idiomáticas que significan problema o molestia, como \"dolor de cabeza\" (problema)."
+    },
+    {
+      "id": "s4",
+      "glosa": "Dolor abstracto/sufrimiento en general: Referido a sufrimiento en un contexto filosófico, espiritual o abstracto, no especificado como físico o emocional."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 7850,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 18063,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64893,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 33464,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 62634,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 5842,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10536,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 28109,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 50107,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52430,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 41221,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 66265,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 29010,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 61604,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 18636,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6051,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20950,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 55187,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42584,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 22129,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42750,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52976,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62128,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13597,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 3110,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 72121,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 24832,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6283,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 63532,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 73037,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48858,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21774,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61098,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55980,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 27815,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13330,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52185,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 27751,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 27981,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13763,
+      "sentido": "s1"
+    }
+  ]
+}

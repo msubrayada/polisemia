@@ -1,0 +1,195 @@
+{
+  "palabra": "espacio",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Espacio físico o lugar: Se refiere a un área o lugar físico, como una habitación, plaza, terreno, etc."
+    },
+    {
+      "id": "s2",
+      "glosa": "Espacio de medios: Se refiere a un segmento o sección en un medio de comunicación, como un programa de televisión, radio, periódico, etc."
+    },
+    {
+      "id": "s3",
+      "glosa": "Espacio público: Se refiere a áreas comunes accesibles a todos, como plazas, parques, etc."
+    },
+    {
+      "id": "s4",
+      "glosa": "Espacio abstracto o metafórico: Se refiere a un ámbito, oportunidad, margen, o espacio en el tiempo."
+    },
+    {
+      "id": "s5",
+      "glosa": "Espacio exterior: Se refiere al espacio cósmico."
+    },
+    {
+      "id": "s6",
+      "glosa": "Espacio visual o perspectiva: Se refiere al espacio en el arte o perspectiva, como en la perspectiva aérea."
+    },
+    {
+      "id": "s7",
+      "glosa": "Espacio de expresión: Se refiere a una plataforma o medio para expresar ideas, como una revista o evento."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 52454,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 67182,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42443,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32263,
+      "sentido": "no_claro"
+    },
+    {
+      "id_tweet": 51248,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 16068,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54774,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 43792,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76978,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 57603,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 8668,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 25403,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7881,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 36199,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 12420,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 17349,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 65015,
+      "sentido": "s6"
+    },
+    {
+      "id_tweet": 29044,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52756,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 8051,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 41961,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 8179,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6739,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6252,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 65088,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 41774,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 66285,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32965,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 31447,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 69836,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 16948,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68354,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60586,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 44851,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75144,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 2023,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 60585,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 58519,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 37513,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 65699,
+      "sentido": "s2"
+    }
+  ]
+}

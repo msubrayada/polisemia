@@ -1,0 +1,179 @@
+{
+  "palabra": "plan",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Un conjunto de ideas, pasos o acciones diseñadas para lograr un objetivo específico."
+    },
+    {
+      "id": "s2",
+      "glosa": "Un servicio o programa ofrecido por una empresa, especialmente en telecomunicaciones, que incluye un conjunto de características y precios."
+    },
+    {
+      "id": "s3",
+      "glosa": "La intención, propósito o propuesta de actividades de una persona, a menudo en un contexto coloquial."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 55941,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 10913,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7942,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59609,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 45873,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48199,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 18962,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 32572,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 66416,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10947,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56623,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56924,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 327,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 58382,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 15748,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 50083,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 41517,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52858,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 76818,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 30806,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 12400,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25326,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 46153,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 17604,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 16227,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 20356,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 33814,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54444,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13683,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 31778,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 62200,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 63307,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10788,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 22964,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 41072,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 49122,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 17767,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30081,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 9829,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 40295,
+      "sentido": "s1"
+    }
+  ]
+}

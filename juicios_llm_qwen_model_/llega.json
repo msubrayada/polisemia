@@ -1,0 +1,183 @@
+{
+  "palabra": "llega",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Alcanzar un punto, cantidad, nivel o estado."
+    },
+    {
+      "id": "s2",
+      "glosa": "Aproximarse o acercarse en el tiempo o espacio."
+    },
+    {
+      "id": "s3",
+      "glosa": "Recibir o obtener algo."
+    },
+    {
+      "id": "s4",
+      "glosa": "Aparecer o presentarse (incluyendo condicional)."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 7699,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 1468,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 27976,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 31606,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30656,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 55141,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 64188,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 26984,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 2185,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 45014,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 16716,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 66255,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 34712,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 51532,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 33798,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 76353,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 59020,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 4478,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 72403,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 39010,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39322,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 5822,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 77953,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9627,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 56389,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 71958,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 2262,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 59962,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 78045,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 48807,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 29141,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 69275,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 7842,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 58102,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 5522,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 23554,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69036,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 18990,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25642,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 63383,
+      "sentido": "s2"
+    }
+  ]
+}

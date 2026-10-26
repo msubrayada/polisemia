@@ -1,0 +1,183 @@
+{
+  "palabra": "presidente",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Se refiere al cargo de presidente de un país, específicamente México o España, ya sea actual, histórico o en general."
+    },
+    {
+      "id": "s2",
+      "glosa": "Se refiere al cargo de presidente dentro de una institución, organización, asociación, mesa directiva, o entidad gubernamental local."
+    },
+    {
+      "id": "s3",
+      "glosa": "Se refiere a un topónimo, es decir, un nombre propio de un lugar que lleva el nombre de un ex presidente."
+    },
+    {
+      "id": "s4",
+      "glosa": "Se refiere a una persona que es candidata a la presidencia de un país."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 52337,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20035,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 18041,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10218,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 77066,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57329,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 23746,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 17924,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12329,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 65663,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 33589,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68394,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 43358,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 70668,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75162,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56505,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7495,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5272,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 70674,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 15546,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30922,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 75374,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 26720,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 29254,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 66227,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21863,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 77534,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12856,
+      "sentido": "no_claro"
+    },
+    {
+      "id_tweet": 11679,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 46041,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 73365,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 47269,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32260,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5625,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6705,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 72344,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 43666,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 38563,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9060,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6510,
+      "sentido": "s1"
+    }
+  ]
+}

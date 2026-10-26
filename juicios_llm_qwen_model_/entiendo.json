@@ -1,0 +1,171 @@
+{
+  "palabra": "entiendo",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Comprender o entender algo, es decir, captar su significado, razón o explicación."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 38678,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5720,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 70012,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 41029,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 2533,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 58602,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 3763,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 73097,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 37938,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 72738,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61652,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 46937,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10542,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 65697,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38181,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 19978,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9513,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68279,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30491,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7555,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68307,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40219,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 47914,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 77198,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 4478,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71666,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59337,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 37707,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28533,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9879,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40697,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63909,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 78060,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6866,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25986,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21768,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 49686,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67955,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38348,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28174,
+      "sentido": "s1"
+    }
+  ]
+}

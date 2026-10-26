@@ -1,0 +1,131 @@
+{
+  "palabra": "populista",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Uso despectivo, como adjetivo insultante para criticar a alguien como demagogo, hipócrita o corrupto."
+    },
+    {
+      "id": "s2",
+      "glosa": "Uso descriptivo, como adjetivo político para referirse a un estilo que busca el apoyo popular mediante promesas y discursos simplistas."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 59851,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 46750,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 37369,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 51930,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28315,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 33245,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 51908,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 2662,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57287,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 37842,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 41360,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 36871,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 47335,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 2887,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10503,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 11409,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 3003,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 52436,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7789,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 52226,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52585,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 47938,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 65846,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 51894,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 22350,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35254,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38153,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 50064,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12841,
+      "sentido": "s2"
+    }
+  ]
+}

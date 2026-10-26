@@ -1,0 +1,175 @@
+{
+  "palabra": "escuela",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Institución educativa donde se imparte educación formal."
+    },
+    {
+      "id": "s2",
+      "glosa": "Estilo o método tradicional en un campo, como 'la vieja escuela'."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 64855,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6911,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27650,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 41003,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 66180,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 4528,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 41836,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54733,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8565,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59863,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68398,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 11938,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61345,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71490,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52022,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76779,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 65986,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 74617,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 34037,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28940,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 51513,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68290,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 43086,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42380,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 26241,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10282,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40635,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7044,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56383,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 73123,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60903,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25957,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 24815,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 47751,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59515,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 41550,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55253,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67059,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 16338,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 45601,
+      "sentido": "s1"
+    }
+  ]
+}

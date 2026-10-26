@@ -1,0 +1,195 @@
+{
+  "palabra": "entrada",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Acceso o punto de entrada: lugar por donde se ingresa a un edificio, carretera, fraccionamiento, etc."
+    },
+    {
+      "id": "s2",
+      "glosa": "Ingreso o cobro: dinero o algo que se paga para acceder a un evento, exposición, etc."
+    },
+    {
+      "id": "s3",
+      "glosa": "Comienzo o inicio: el momento en que algo comienza, o al principio."
+    },
+    {
+      "id": "s4",
+      "glosa": "Entrada en una carrera o evento deportivo: participación o oportunidad en una carrera, especialmente en deportes como caballos, béisbol, etc."
+    },
+    {
+      "id": "s5",
+      "glosa": "Entrada de un empleado: hora de llegada al trabajo."
+    },
+    {
+      "id": "s6",
+      "glosa": "Entrada de un texto o discurso: introducción o preámbulo."
+    },
+    {
+      "id": "s7",
+      "glosa": "No claro: tweet ambiguo, sin suficiente contexto, o spam/texto casi duplicado sin contenido semántico claro."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 59734,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 26258,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 62499,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 63353,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 577,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 31310,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38070,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 38763,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13300,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 41852,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 72043,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 48768,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 70047,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42657,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 15853,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 6479,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 23730,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32733,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 38023,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 57283,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 20382,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 67795,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68141,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 33656,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 34984,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 15569,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 41508,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43009,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 34001,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59076,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 11311,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 75552,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6682,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75135,
+      "sentido": "s6"
+    },
+    {
+      "id_tweet": 61429,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 37022,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 22852,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 65269,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35551,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9772,
+      "sentido": "s2"
+    }
+  ]
+}

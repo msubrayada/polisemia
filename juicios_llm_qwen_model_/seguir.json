@@ -1,0 +1,179 @@
+{
+  "palabra": "seguir",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Continuar o persistir en una acción."
+    },
+    {
+      "id": "s2",
+      "glosa": "Imitar o tomar como modelo."
+    },
+    {
+      "id": "s3",
+      "glosa": "Suscribirse o seguir a un perfil en redes sociales."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 9043,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 11008,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 5072,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 77672,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12869,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56519,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39316,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 1828,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27004,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39522,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13425,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12948,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59146,
+      "sentido": "no_claro"
+    },
+    {
+      "id_tweet": 13790,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48642,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 45401,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 70039,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 48840,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71299,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13247,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 670,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 15393,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 2149,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69463,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13207,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 73562,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52556,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28016,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 4896,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43216,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 66648,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64133,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 45765,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 14854,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 3692,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6502,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13500,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12568,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21556,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 72935,
+      "sentido": "s1"
+    }
+  ]
+}

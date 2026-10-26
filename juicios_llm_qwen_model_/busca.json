@@ -1,0 +1,175 @@
+{
+  "palabra": "busca",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Estar en busca de algo, realizar una acción de búsqueda."
+    },
+    {
+      "id": "s2",
+      "glosa": "Tener como objetivo algo, pretender lograr algo."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 50743,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 59740,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6075,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 14537,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39503,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40369,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 39784,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 70395,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60862,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 43400,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48632,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 24769,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 45592,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40464,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 17362,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 23448,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 15646,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7873,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48990,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35766,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61013,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 3819,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64324,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 18647,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 58809,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 77635,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7203,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 7649,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5263,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 73700,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 33620,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5484,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 74138,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 46028,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 47074,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 77024,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 75243,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 418,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 73738,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 56689,
+      "sentido": "s1"
+    }
+  ]
+}

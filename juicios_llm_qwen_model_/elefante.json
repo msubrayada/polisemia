@@ -1,0 +1,55 @@
+{
+  "palabra": "elefante",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Referencia al animal mamífero elefante."
+    },
+    {
+      "id": "s2",
+      "glosa": "Uso figurado para referirse a una persona, a menudo grande, importante o poderosa."
+    },
+    {
+      "id": "s3",
+      "glosa": "Expresión idiomática 'elefante blanco' que denota algo costoso y de poco uso."
+    },
+    {
+      "id": "s4",
+      "glosa": "Uso ambiguo o sin contexto suficiente para determinar el sentido."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 35782,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 46644,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 19102,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55935,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 38383,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 43184,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 39586,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 46906,
+      "sentido": "s1"
+    }
+  ]
+}

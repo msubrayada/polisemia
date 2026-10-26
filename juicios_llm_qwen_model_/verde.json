@@ -1,0 +1,195 @@
+{
+  "palabra": "verde",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Se refiere al color verde, utilizado para describir objetos, ropa, gráficos, etc."
+    },
+    {
+      "id": "s2",
+      "glosa": "Se refiere a lo relacionado con la ecología, energías limpias, sostenibilidad."
+    },
+    {
+      "id": "s3",
+      "glosa": "Se refiere al semáforo en verde, indicando permiso para pasar o reanudar actividades."
+    },
+    {
+      "id": "s4",
+      "glosa": "Se refiere a plantas, vegetación, o productos derivados de plantas como el té verde."
+    },
+    {
+      "id": "s5",
+      "glosa": "Se refiere a un tipo de salsa de comida de color verde."
+    },
+    {
+      "id": "s6",
+      "glosa": "Se refiere a ser inexperto o a expresiones idiomáticas que implican falta de experiencia o fuerza."
+    },
+    {
+      "id": "s7",
+      "glosa": "Usos donde 'verde' es parte de un nombre propio o es ambiguo, sin un sentido común claro."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 21562,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48130,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38943,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48347,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 65836,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 321,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10731,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 46904,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5257,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43805,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52210,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 73033,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7678,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 25895,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 62352,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 49489,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 11759,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 12558,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 63739,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 9008,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 4361,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 44366,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 71589,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 25499,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 17299,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 36242,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 27881,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 77231,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 60713,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 10276,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 61696,
+      "sentido": "s6"
+    },
+    {
+      "id_tweet": 4423,
+      "sentido": "s6"
+    },
+    {
+      "id_tweet": 2306,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 26834,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 4299,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 72413,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 17541,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 26855,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 68552,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 54478,
+      "sentido": "s7"
+    }
+  ]
+}

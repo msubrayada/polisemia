@@ -1,0 +1,195 @@
+{
+  "palabra": "oportunidad",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Momento favorable o circunstancia propicia para realizar una acción."
+    },
+    {
+      "id": "s2",
+      "glosa": "Posibilidad o chance de lograr algo o ser considerado."
+    },
+    {
+      "id": "s3",
+      "glosa": "Chance de negocio o beneficio económico."
+    },
+    {
+      "id": "s4",
+      "glosa": "Chance de participación o inclusión en algo."
+    },
+    {
+      "id": "s5",
+      "glosa": "Chance de aprendizaje o crecimiento personal."
+    },
+    {
+      "id": "s6",
+      "glosa": "Chance de asistir a un evento o tener una experiencia."
+    },
+    {
+      "id": "s7",
+      "glosa": "Área que puede ser aprovechada para mejorar o corregir."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 32013,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59919,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6098,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 35307,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32195,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 44040,
+      "sentido": "s6"
+    },
+    {
+      "id_tweet": 68462,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 36825,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 8320,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 19924,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 33778,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 24113,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 23565,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52195,
+      "sentido": "s6"
+    },
+    {
+      "id_tweet": 6697,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20309,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 50634,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 50812,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 19802,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 31216,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 26303,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 4018,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 26941,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 56130,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 29743,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13613,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 60660,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 14907,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57086,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 33520,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 14834,
+      "sentido": "s6"
+    },
+    {
+      "id_tweet": 39683,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 2661,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69751,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43321,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25365,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 32244,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 7787,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59066,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 34311,
+      "sentido": "s2"
+    }
+  ]
+}

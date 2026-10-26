@@ -1,0 +1,187 @@
+{
+  "palabra": "siguen",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Continuar una acción o actividad."
+    },
+    {
+      "id": "s2",
+      "glosa": "Persistir en un estado, condición o lugar."
+    },
+    {
+      "id": "s3",
+      "glosa": "Seguir a alguien en una plataforma de redes sociales."
+    },
+    {
+      "id": "s4",
+      "glosa": "Seguir gustando o interesando a alguien."
+    },
+    {
+      "id": "s5",
+      "glosa": "Uso ambiguo o no claro."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 75480,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27012,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 3525,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64405,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 4857,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 71970,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 8302,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71324,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60847,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 51344,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75308,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5662,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38494,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 65907,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 65287,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 55417,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 58104,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 9857,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 77313,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67893,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 45258,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 62560,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 73140,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67204,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 51261,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5618,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 58577,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40014,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 43546,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 36466,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 71535,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 23771,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 48812,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 16023,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 4957,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 51906,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 62097,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 49327,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35255,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57617,
+      "sentido": "s2"
+    }
+  ]
+}

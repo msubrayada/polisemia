@@ -1,0 +1,175 @@
+{
+  "palabra": "pagar",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Entregar dinero por un producto, servicio, deuda u obligación financiera."
+    },
+    {
+      "id": "s2",
+      "glosa": "Sufrir las consecuencias negativas de una acción o situación."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 75117,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 77993,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 49215,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64081,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7086,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39020,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61431,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28520,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76445,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 50135,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57831,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 13324,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67434,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 4895,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 26792,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64032,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62962,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8719,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56443,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 26667,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67430,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 51812,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 29938,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 11730,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 36621,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52283,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68092,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7246,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 19796,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54970,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 37872,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 23308,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39301,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69701,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42142,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43808,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 29200,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48238,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40552,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35448,
+      "sentido": "s1"
+    }
+  ]
+}

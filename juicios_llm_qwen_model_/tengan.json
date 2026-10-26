@@ -1,0 +1,183 @@
+{
+  "palabra": "tengan",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Mandato o exhortación en forma de imperativo en subjuntivo."
+    },
+    {
+      "id": "s2",
+      "glosa": "Deseo, esperanza o bendición expresada en subjuntivo."
+    },
+    {
+      "id": "s3",
+      "glosa": "Uso relativo en oraciones introducidas por 'que'."
+    },
+    {
+      "id": "s4",
+      "glosa": "Construcción 'tener que' para expresar obligación o necesidad."
+    },
+    {
+      "id": "s5",
+      "glosa": "Uso en oraciones de propósito con 'para que'."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 5659,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 29960,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 22450,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56697,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56836,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 34951,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56603,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 8977,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 71051,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 46529,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 78502,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61161,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 22680,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43562,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 74782,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 62442,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 38660,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25979,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 15415,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59117,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 49841,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 9702,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 7701,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76597,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 2964,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 4555,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 60448,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 26409,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 4915,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28099,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 19635,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32696,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60085,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55654,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 2389,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76850,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 18842,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30916,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 30525,
+      "sentido": "s1"
+    }
+  ]
+}

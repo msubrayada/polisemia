@@ -1,0 +1,159 @@
+{
+  "palabra": "municipal",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Se refiere a entidades, funcionarios, servicios o planes que forman parte del gobierno o administración municipal."
+    },
+    {
+      "id": "s2",
+      "glosa": "Se refiere a lugares, propiedades o bienes que pertenecen al municipio."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 7107,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 16554,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61528,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 26665,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 46397,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 76018,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42156,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62088,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9041,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71373,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 15714,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 46395,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5143,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43282,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 43532,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32210,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 3831,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 44166,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6619,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 26507,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 22809,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 74789,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75218,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 66494,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 46287,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 34637,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20692,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54987,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63329,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 11946,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 4497,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 15748,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69320,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59639,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 37297,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69686,
+      "sentido": "s1"
+    }
+  ]
+}

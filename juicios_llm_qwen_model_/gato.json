@@ -1,0 +1,179 @@
+{
+  "palabra": "gato",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Gato como animal doméstico (mamífero felino)."
+    },
+    {
+      "id": "s2",
+      "glosa": "Uso figurativo de 'gato' en expresiones idiomáticas o metáforas."
+    },
+    {
+      "id": "s3",
+      "glosa": "Uso de 'gato' como nombre propio (personaje, lugar, mascota con nombre)."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 18517,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59101,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 47387,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69173,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 26797,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76402,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40643,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 38494,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 49865,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 31049,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 17175,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 1699,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55956,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 12001,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 1239,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5732,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 62549,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 70182,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 76200,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20544,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 14125,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 22110,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 37999,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55460,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48586,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 314,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 64987,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42152,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 53529,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 1952,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 46961,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 16930,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 55948,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 586,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 35713,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 779,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 64115,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 55918,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 36945,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61450,
+      "sentido": "s2"
+    }
+  ]
+}

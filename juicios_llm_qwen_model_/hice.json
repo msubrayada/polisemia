@@ -1,0 +1,175 @@
+{
+  "palabra": "hice",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Realizar una acción o actividad."
+    },
+    {
+      "id": "s2",
+      "glosa": "Crear o producir algo."
+    },
+    {
+      "id": "s3",
+      "glosa": "Causar o provocar algo."
+    },
+    {
+      "id": "s4",
+      "glosa": "Convertirse en o volverse algo."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 5980,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62643,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42690,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71324,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 51134,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62396,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27589,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 61441,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60248,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20294,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6492,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 67516,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 8676,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9314,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13048,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 18749,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60790,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35990,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57398,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 24502,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 6889,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 58117,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54507,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 32532,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 26472,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 65021,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 59663,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 37186,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42458,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 24071,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 6505,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67446,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 67979,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 40999,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 65723,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40047,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 39102,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 50304,
+      "sentido": "s1"
+    }
+  ]
+}

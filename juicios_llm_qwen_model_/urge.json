@@ -1,0 +1,175 @@
+{
+  "palabra": "urge",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Uso coloquial de 'urgir' para expresar necesidad personal (equivalente a 'me hace falta' o 'necesito')."
+    },
+    {
+      "id": "s2",
+      "glosa": "Uso impersonal de 'urgir' para indicar que algo es urgente (equivalente a 'es urgente')."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 37270,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8190,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 32872,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 48976,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 37079,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 9104,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52375,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 11084,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 32882,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 65394,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 24029,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21970,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48457,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38064,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 33058,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 7772,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 48960,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71735,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 33689,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 51263,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61915,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 15071,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5607,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 51720,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 67494,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 8954,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 58554,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 33735,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42110,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 52388,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 43441,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 74173,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 44430,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59613,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 13791,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 49036,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 68800,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 15431,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 6416,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27176,
+      "sentido": "s2"
+    }
+  ]
+}

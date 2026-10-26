@@ -1,0 +1,151 @@
+{
+  "palabra": "carita",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Referencia a la cara de una persona, a menudo con connotaciones afectivas, descriptivas o comparativas."
+    },
+    {
+      "id": "s2",
+      "glosa": "Referencia a la expresión o apariencia de algo personificado (como la vida)."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 32267,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 44685,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67928,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 65852,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 19207,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60492,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 53586,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28641,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75351,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21645,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 167,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 7966,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 34493,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 36388,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12189,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30742,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27718,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 308,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 914,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 72088,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 1125,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71491,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54218,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 72470,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 53593,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43998,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63996,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 16282,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 50881,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75656,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 16976,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27067,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32017,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71024,
+      "sentido": "s1"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "palabra": "salir",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Moverse desde un lugar o abandonar una situación."
+    },
+    {
+      "id": "s2",
+      "glosa": "Revelar una orientación sexual."
+    },
+    {
+      "id": "s3",
+      "glosa": "Aparecer en un programa o medio de comunicación."
+    },
+    {
+      "id": "s4",
+      "glosa": "Que algo aparezca, ocurra o pase."
+    },
+    {
+      "id": "s5",
+      "glosa": "Que algo tenga un buen desenlace."
+    },
+    {
+      "id": "s6",
+      "glosa": "Que un producto sea lanzado al mercado."
+    },
+    {
+      "id": "s7",
+      "glosa": "Tener un encuentro social o cita."
+    },
+    {
+      "id": "s8",
+      "glosa": "Realizar o presentar algo."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 39713,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54562,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 4325,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40058,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 17862,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 16214,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 64579,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 17878,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 49782,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 23487,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 1888,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 72527,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10098,
+      "sentido": "s8"
+    },
+    {
+      "id_tweet": 14482,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 24541,
+      "sentido": "s6"
+    },
+    {
+      "id_tweet": 5557,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54396,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 75665,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43807,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76918,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 14860,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 2585,
+      "sentido": "s6"
+    },
+    {
+      "id_tweet": 77793,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 51215,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 204,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 78268,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 36786,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 49253,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 10218,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 43814,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21482,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20902,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 68569,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 30254,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 26471,
+      "sentido": "s1"
+    }
+  ]
+}

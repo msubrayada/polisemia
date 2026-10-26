@@ -1,0 +1,171 @@
+{
+  "palabra": "confianza",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Confianza como creencia en la capacidad, integridad o fiabilidad de una persona, entidad, sistema o uno mismo."
+    },
+    {
+      "id": "s2",
+      "glosa": "Confianza como adverbio o parte de una expresión que significa 'de manera abierta, sin reservas'."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 2953,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 1241,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13691,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 15580,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 16734,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 19032,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20787,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 22383,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25240,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 26693,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27173,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 29307,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30062,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32806,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 37361,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40043,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40063,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42636,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43913,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 44175,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 46681,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 47749,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48025,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 49262,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 58417,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59245,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62867,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62868,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 66395,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69349,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 70185,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71329,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 74866,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75626,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 78398,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8471,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8610,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8779,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9494,
+      "sentido": "s1"
+    }
+  ]
+}

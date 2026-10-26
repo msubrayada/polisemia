@@ -1,0 +1,175 @@
+{
+  "palabra": "lucha",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Esfuerzo o conflicto (no físico): Lucha como esfuerzo para lograr algo, conflicto social, político, personal, o resistencia contra algo."
+    },
+    {
+      "id": "s2",
+      "glosa": "Combate físico o deporte: Lucha como deporte de lucha libre o combate físico."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 55992,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56813,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71444,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 26755,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 50507,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 15206,
+      "sentido": "no_claro"
+    },
+    {
+      "id_tweet": 53926,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25026,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 53334,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 72012,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10608,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43798,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9903,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 33426,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 11961,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 15482,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 66114,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 72660,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52147,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10111,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39280,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10488,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9386,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6390,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 15840,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75970,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52139,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 26788,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 66816,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 55867,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69332,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42372,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27367,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59304,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 1711,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 64491,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20894,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20642,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 36201,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48445,
+      "sentido": "s1"
+    }
+  ]
+}

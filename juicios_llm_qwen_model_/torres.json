@@ -1,0 +1,175 @@
+{
+  "palabra": "torres",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Nombre propio de lugar, como un centro comercial, avenida o pueblo."
+    },
+    {
+      "id": "s2",
+      "glosa": "Apellido de una persona."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 48854,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 19223,
+      "sentido": "no_claro"
+    },
+    {
+      "id_tweet": 69949,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 8741,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 73129,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 62161,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 49895,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21128,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 712,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 303,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 16268,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 54838,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40510,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 10226,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27608,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 538,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9695,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 1423,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63075,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54088,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 47003,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 50347,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 50031,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 2643,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 18010,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 16647,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 709,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 58377,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 1145,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 49946,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69336,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13883,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 10620,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 66225,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 633,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27845,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 50036,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 17023,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 3668,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 51935,
+      "sentido": "s1"
+    }
+  ]
+}

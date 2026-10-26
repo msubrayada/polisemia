@@ -1,0 +1,175 @@
+{
+  "palabra": "tuve",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Poseer o experimentar algo (objetos, cualidades, experiencias, relaciones, etc.)"
+    },
+    {
+      "id": "s2",
+      "glosa": "Necesidad u obligación (cuando se usa 'tuve que' seguido de un verbo)"
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 54132,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43845,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7654,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 26853,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61180,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 74006,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 23306,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 19823,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7913,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 68027,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61932,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7210,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64905,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 21453,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 43939,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43891,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 58675,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 2200,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25085,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 74679,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43760,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38239,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54079,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 17194,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 31431,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 22650,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 49430,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68848,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12083,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 23210,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30076,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 45766,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 72561,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10286,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 53717,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38577,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20350,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 7949,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 46861,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27829,
+      "sentido": "s1"
+    }
+  ]
+}

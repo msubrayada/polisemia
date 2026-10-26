@@ -1,0 +1,159 @@
+{
+  "palabra": "covid",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "La enfermedad COVID-19 causada por el virus SARS-CoV-2, o la pandemia asociada."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 2940,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 16014,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 17914,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 18160,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21091,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 24683,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32383,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32521,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 3527,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35883,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 3690,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38398,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 41135,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42172,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 45180,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 4810,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5003,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5059,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52472,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 55072,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56866,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57192,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57964,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61094,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61245,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 61428,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6366,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69047,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69865,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7014,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71346,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 72762,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 73108,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 77059,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8723,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9008,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 74717,
+      "sentido": "no_claro"
+    }
+  ]
+}

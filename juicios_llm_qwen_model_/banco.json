@@ -1,0 +1,191 @@
+{
+  "palabra": "banco",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Institución financiera (banco comercial, sucursal, entidad que maneja dinero y cuentas)."
+    },
+    {
+      "id": "s2",
+      "glosa": "Banco central (Banco de México, entidad gubernamental que emite moneda y regula el sistema financiero)."
+    },
+    {
+      "id": "s3",
+      "glosa": "Banco de alimentos o entidad benéfica (entidad que proporciona alimentos o bienestar, como un banco de alimentos)."
+    },
+    {
+      "id": "s4",
+      "glosa": "Banco de semen (entidad que almacena semen)."
+    },
+    {
+      "id": "s5",
+      "glosa": "Banco como metáfora para una colección o reserva (como un banco de datos o un lugar donde se guardan cosas)."
+    },
+    {
+      "id": "s6",
+      "glosa": "Verbo 'banco' que significa apoyar o respaldar (derivado de la institución financiera)."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 38969,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21443,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8246,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 11670,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 45035,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 41789,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 70190,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9541,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 74818,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 17136,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30989,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 64189,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 32476,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 1777,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 72846,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 36125,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 50424,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 11315,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42323,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 33420,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 57006,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 25995,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 44972,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43686,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 33578,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 45561,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 17844,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56826,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8000,
+      "sentido": "s6"
+    },
+    {
+      "id_tweet": 22977,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 34116,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 11604,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 46255,
+      "sentido": "s6"
+    },
+    {
+      "id_tweet": 11019,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 77805,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 74990,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 20326,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 31086,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 31058,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 28672,
+      "sentido": "s1"
+    }
+  ]
+}

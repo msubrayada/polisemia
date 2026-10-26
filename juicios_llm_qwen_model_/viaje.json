@@ -1,0 +1,171 @@
+{
+  "palabra": "viaje",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Desplazamiento físico de un lugar a otro, generalmente con fines de ocio, trabajo o negocios."
+    },
+    {
+      "id": "s2",
+      "glosa": "Experiencia o proceso metafórico, que implica un cambio, transformación o alejamiento."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 503,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 50625,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 50864,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 51078,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 51553,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 51561,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52272,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60465,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63213,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64978,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67761,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69020,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 69100,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71412,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 73393,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7612,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10009,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 10328,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 11894,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 11972,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 14643,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20027,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20169,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20223,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 24256,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 26348,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 27448,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28629,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 29587,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32603,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 34872,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 36386,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39542,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 41067,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 42774,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 45743,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 4640,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 47887,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 49778,
+      "sentido": "s1"
+    }
+  ]
+}

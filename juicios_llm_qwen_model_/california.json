@@ -1,0 +1,179 @@
+{
+  "palabra": "california",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Baja California (entidad geográfica mexicana)"
+    },
+    {
+      "id": "s2",
+      "glosa": "California (estado de EE.UU.)"
+    },
+    {
+      "id": "s3",
+      "glosa": "California Fitness (marca)"
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 61052,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9441,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 3313,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 75185,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57057,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 53865,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 29452,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39851,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 70434,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9858,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64009,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40649,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 886,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64264,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 19828,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 76265,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43603,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62811,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52478,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 39131,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10129,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35319,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54410,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25122,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 23053,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30666,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 45185,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 73578,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13081,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39581,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67706,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 66857,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8689,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 33680,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54705,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75498,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27013,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38368,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 4637,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 43331,
+      "sentido": "s1"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "palabra": "federal",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "relacionado con el gobierno federal o la federación"
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 67221,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 45745,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21128,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32390,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7608,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52250,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 17968,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63243,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13195,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 50498,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30591,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63025,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57492,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9756,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 22646,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 77395,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 2926,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62739,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 11446,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38867,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67872,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5962,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63150,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32518,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67183,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 46420,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 29146,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57283,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13969,
+      "sentido": "s1"
+    }
+  ]
+}

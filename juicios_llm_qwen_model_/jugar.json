@@ -1,0 +1,183 @@
+{
+  "palabra": "jugar",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Participar en un juego o deporte (incluye videojuegos, deportes, juegos de cartas, etc.)."
+    },
+    {
+      "id": "s2",
+      "glosa": "Manipular o arriesgarse con algo peligroso (metáfora)."
+    },
+    {
+      "id": "s3",
+      "glosa": "Tener un papel o función en una situación."
+    },
+    {
+      "id": "s4",
+      "glosa": "Hacer algo de manera lúdica o no seria (acepción figurada)."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 7891,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 44211,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 78007,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 52139,
+      "sentido": "no_claro"
+    },
+    {
+      "id_tweet": 53694,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27918,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9284,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 19092,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 16600,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 22275,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39539,
+      "sentido": "no_claro"
+    },
+    {
+      "id_tweet": 72380,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9790,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76476,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 39701,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 44049,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 58037,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6279,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 5639,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56191,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 14513,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 18065,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67429,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 28825,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68948,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 14604,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 44443,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 14714,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35588,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28356,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71004,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 57771,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 29361,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13841,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 65433,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76311,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 22808,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10623,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 49414,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 36607,
+      "sentido": "s1"
+    }
+  ]
+}

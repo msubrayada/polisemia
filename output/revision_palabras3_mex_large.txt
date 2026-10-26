@@ -1,0 +1,152 @@
+--------------------------------------------------
+Palabra: carita
+
+--- cluster -1 (10 ocurrencias) ---
+NL _GEO Me gusta ver memes, pero me gusta más ver tu carita toda preciosa
+
+QR _GEO El lavarse la carita todas las noches igual es un acto de amor propio, okey?
+
+Puebla _GEO Y wo, lo cristale del carro se empañan tu carita d angel m engaña
+
+Veracruz _GEO Que ganas de que me llenen así la carita de leche 🍆💦 _URL
+
+Mexico_City _GEO Lore que linda estas y eso q no se ve mucho tu carita amor
+
+
+--- cluster 0 (6 ocurrencias) ---
+Mexico _GEO _USR Qué "carita" está la vida! 😂 No cabe duda de que EL ODIO, CORROE! Verdad #DeniseDresser ? (También me bloqueó, no la puedo arrobar 😆)
+
+Guanajuato _GEO 🇲🇽 Eres nefasta é hipócrita _USR La Edecán de Seguridad del _USR Hoy, le agradeces al Presidente _USR . Ayer, lo tratas de represor y violento, cuando, de todos conocido, pacifista es. _URL Eres diabólica a pesar de carita _URL
+
+Mexico_City _GEO _USR se parece a ti de la carita toda bonita!!! 🥰
+
+Mexico_City _GEO Me recordó a Fortunata de Carita de Angel y a las Curvas Peligrosas ah y a las monjas de “aquí esta la chilindrina”
+
+BC _GEO _USR Se me hizo algo carita no?
+
+
+--- cluster 1 (10 ocurrencias) ---
+Mexico_City _GEO Tengo ganas de besarte acariciarte ... de tus labios tu cuerpo de tii..quiero mas de.tu piel tu carita...🥰😍 _URL
+
+Querétaro _GEO Su sonrisa, su carita, sus manitas ay que delicia 🛐
+
+BC _GEO _USR Me paso con una sobre cargo, no se que hacía con esa carita sirviendo papitas y sodas, bien podría ser modelo
+
+Zacatecas _GEO Yo sigo recordando tu carita acercándose a mi pecho, tu abriendo mis manos, exigiendo un abrazo.☔️
+
+Mexico_City _GEO Ilumine su martes con esta carita piciosa _URL
+
+
+--- cluster 2 (8 ocurrencias) ---
+Chihuahua _GEO Todas las mañanas vomito 🤮 por tú culpa y tú ahí con esa carita de perro 🐶 inocente que no hace nada !! _URL
+
+Veracruz _GEO Pinché china tiene carita de ángel y figura divina la condenada
+
+BC _GEO _USR Una vez me los topé en mi anterior empleo y les dije que me encantaba su primer disco y uno de ellos preguntó : y el segundo? Me disculpé y les dije que lo tenía pendiente. Nomás me puso carita de apenado y me dijo que lo escuchara haha
+
+QR _GEO Tendría k haber visto la carita d Bian cuando le dije k si kiere venirse conmigo 🥺💕
+
+NL _GEO estoy súper enamorada de esta foto y de esa mujer con carita de emputada
+
+--------------------------------------------------
+Palabra: populista
+
+--- cluster 0 (16 ocurrencias) ---
+Mexico_City _GEO _USR querría que todos en México (excepto los suyos) fuéramos pobres, pues en América Latina la pobreza es el mejor caldo de cultivo para la demagogia populista y la dominación de los pueblos
+
+Mexico_City _GEO _USR Ese puente y muchos representan fielmente una flagrante corrupcion y simulacion de este gobierno Populista de nulos resultados.
+
+Chihuahua _GEO Y eso que van varias donaciones de vacunas US ➡️ MX... Pero al populista le encanta andarlas dando. Con y sin albur.
+
+Jalisco _GEO _USR Y la lista es larga! ONU no dejen entrar a Tartufo es un Pinchi demagogo populista y mentiroso aparte de corrupto y criminal! _URL
+
+Jalisco _GEO _USR Magistral descripción! Esa es la 4t de el Cacas populista y socialista y ya van casi 2,000 niños con cáncer muertos por falta de medicamentos por cierto! Ah pero esos no votan! Es un ejemplo nadamás
+
+
+--- cluster 1 (13 ocurrencias) ---
+Mexico_City _GEO AMLO,ERES UN FRAUDE,CORRUPTO,CÍNICO,FARSANTE,MANIPULADOR,MENTIROSO, IRRESPONSABLE,IGNORANTE,AUTORITARIO,CENUTRIO,CRETINO,PENDEJO HOCICON ILUMINADO,PELIGRO PARA MÉXICO,FALSO MESÍAS,BULGAR POPULISTA MEDIOCRE,PREDICADOR DE ODIÓ MIEDO Y DESCONFIANZA,SÓLO GRILLAR JODER Y CHINGAR,ASCO.
+
+Mexico_City _GEO AMLO,ERES FRAUDE,CORRUPTO,CÍNICO,FARSANTE,MENTIROSO,IRRESPONSABLE,IGNORANTE,INÚTIL,AUTORITARIO,PENDEJO HOCICON ILUMINADO,PELIGRO PARA MÉXICO,FALSO MESÍAS,BULGAR POPULISTA MEDIOCRE,SEMBRANDO ODIÓ MIEDO Y DESCONFIANZA,SÓLO GRILLAR JODER Y CHINGAR TODOS LOS DÍAS,DESCALIFICANDO,ASCO.
+
+Mexico_City _GEO _USR SE DICE, MUY PENDEJA,IRRESPONSABLE,IGNORANTE,ARRASTRADA,LAMBISCONA, FLORERO Y CHACHA LAMEBOTAS DE SU AMO Y DUEÑO AMLO,PENDEJO HOCICON ILUMINADO,PELIGRO PARA MÉXICO,FALSO MESÍAS,BULGAR POPULISTA MEDIOCRE,SOLO GRILLAR JODER Y CHINGAR TODOS LOS DÍAS, DESCALIFICANDO,DESTRUYENDO,ASCO
+
+Mexico_City _GEO _USR MARCELO ERES UN FRAUDE PENDEJO HOCICON MENTIROSO, IGUAL QUE TÚ AMO Y DUEÑO AMLO,PENDEJO ILUMINADO HOCICON,PELIGRO PARA MÉXICO,FALSO MESÍAS,BULGAR POPULISTA MEDIOCRE,PREDICADOR DE ODIÓ MIEDO Y DESCONFIANZA,SÓLO GRILLAR JODER Y CHINGAR TODOS LOS DÍAS,DESCALIFICANDO,DESTRUYENDO,ASCO
+
+Mexico_City _GEO _USR FLORERO Y CHACHA DE SU AMO Y DUEÑO AMLO,PENDEJO ILUMINADO,PELIGRO PARA MÉXICO,FALSO MESÍAS,BULGAR POPULISTA MEDIOCRE,PREDICADOR DE ODIÓ MIEDO Y DESCONFIANZA,SÓLO GRILLAR JODER Y CHINGAR TODOS LOS DÍAS,DESCALIFICANDO,DENOSTANDO,ETIQUETANDO,DESTRUYENDO,EXHIBIENDO,ACUSANDO,DA ASCO.
+
+--------------------------------------------------
+Palabra: acabo
+
+--- cluster 0 (92 ocurrencias) ---
+Puebla _GEO _USR Acabo de pasar y me dice una mujer que despacha que se lo llevó una fundación. No supo decir el nombre. _URL
+
+Jalisco _GEO Acabo de colgarle a mi mejor amiga y nos quedamos dos horas y media viendo catálogos de marcas 😂 Mañana le seguimos con el Cyzone y Betterware 😌✨
+
+Morelos _GEO Querido Bo _USR , Acabo de recibir tu linda postal, no pienso quitar Portugal de mi bucket list. Gracias 😘 _URL
+
+Veracruz _GEO _USR Acabo de ver un anuncio de una que podrías poner en tu buró y la programas
+
+Mexico_City _GEO Acabo de platicar con mi única ex novia ( ahora mi gran amiga) 🤷‍♂️
+
+
+--- cluster 1 (118 ocurrencias) ---
+Jalisco _GEO Me acabo de enterar que las chicas de mi trabajo tienen un grupo de wtsp donde no integraron y si me dio el bajón, pinches viejas 🤣
+
+Chiapas _GEO Que cosa tan mas chula acabo de ver en el job 😍😍😍😍😍😍😍
+
+Sonora _GEO jAjA acabo de hacer el oso de mi vida, vine a hacerme unos análisis y la muchacha vio que me quejé por la aguja y me pregunto cuánto tiempo tardaron con tu tatuaje y yo por nervios en ves de decir media hora dije 3 horas y ella viendo el tatuaje miado😑😂😂
+
+Campeche _GEO Ando bajoneada porque acabo de ver una pic de mis botines mamalones qué perdí en un taxi 😭😭😭😭
+
+Veracruz _GEO Le acabo de descargar el primer videojuego al playstation y tengo miedo de encerdelo, haber crakeado mal y que deje de funcionar forever.
+
+
+--- cluster 2 (27 ocurrencias) ---
+Sonora _GEO Lo bueno que a los YankeesFan ya se les acabo el plan de internet; nos vemos en el 2022
+
+BCS _GEO _USR ACABO DE REGRESAR DE UNA VISITA RELÁMPAGO A TAM, PASE POR EL IMSS Y HABÍA GENTE DE hAhATÍ EXIGIENDO ATENCIÓN. NOSOTROS FUIMOS A LLEVAR A MI JEFE A CONSULTA Y NOS SORPRENDIÓ VERLOS
+
+Veracruz _GEO Si me da ansiedad me acabo mi mota en un maravilloso blunt de uva sip.
+
+NL _GEO _USR Ya sé me acabo el corrido, pero bien baila'o 😂
+
+Chihuahua _GEO Mal de alguien. El final no es, y claro lo sabes. En qualquier proyecto que quieras tomar acabo en tu vida, se que con tu actitud lo veras acabo y triunfaras. Si mas gente seria como tu, este mundo seria mejor. #carreralamas #carreramamilamas
+
+--------------------------------------------------
+Palabra: homenaje
+
+--- cluster 0 (36 ocurrencias) ---
+Jalisco _GEO _USR Qué honor tan conveniente. Dorados y Gimnasio y Esgrima deberían hacer otro homenaje en USA🤑🤑🤑
+
+Sonora _GEO DRUK (2020) Añguien la describio como un homenaje al alcohol tanto bueno como lo malo y no voy a poder superar eso asi que me lo VOY A PLAGIAR _URL
+
+Mexico _GEO Hoy se hizo un homenaje al asesino Che Guevara en la Cámara de diputados. Asco Da pena ver a los nuevos socialistas que viven en las Lomas, manejan Volvo y viajan como millonarios, ensalsar a un sádico asesino que se vendió como idealista y revolucionario. _URL
+
+Querétaro _GEO Los _USR le hacen un homenaje al #Che en la _USR por qué quedarnos atrás al recordar a un comunista criminal… ? _URL
+
+Sinaloa _GEO Tocando con La Warrakusha en el homenaje a nuestro carnal _USR en Bungalows LiveBar _URL
+
+
+--- cluster 1 (5 ocurrencias) ---
+Mexico_City _GEO Porque la VIDA MERECE UN HOMENAJE, al adquirir un plan a futuro con J. Gracia López Casas funerarias, usted y su familia están respaldados, lo asesoro sin ningún costo. _URL
+
+Mexico_City _GEO Porque la VIDA MERECE UN HOMENAJE, al adquirir un plan a futuro con J. Gracia López Casas funerarias, usted y su familia están respaldados, lo asesoro sin ningún costo. #planesfunerarios #planafuturo #prevision _URL
+
+Zacatecas _GEO #FRESNILLO HOMENAJE POSTUMO A POLICIA EJECUTADA _URL
+
+Veracruz _GEO 🎬BLUSH 📺Un hermoso #cortometraje demuestra en solo 10 mins. la magia del #amor sin palabras💓💜 #AppleTV 🚀al en un planeta desolado, recibe una sorprendente visita💗y la oportunidad de empezar una nueva vida💜💚 HOMENAJE AL AMOR 💜#blush #AppleTVPlus #shortfilm #Apple _URL
+
+Mexico_City _GEO _USR QUE NO MAMEN !... HOMENAJE A UN ASESINO ?
+
+
+--- cluster 2 (9 ocurrencias) ---
+Puebla _GEO EVENTO ESPECIAL #ATLIXCO Homenaje a Héctor Azar 🎭👍 #Bojiganga presente _USR _USR _URL
+
+Querétaro _GEO Este miércoles hay noche de _USR . Homenaje a José Vicente Anaya Invita la _USR Apúntate en la barra para participar. _URL
+
+Mexico _GEO _USR ¿ Homenaje a un sicario del mal? Que se vayan a su pedorro país y se lleven lo que queda, nosotros no tratamos con ratas mugrosas.
+
+Veracruz _GEO Homenaje a _USR para el Gran Premio de Turquía. #TurkishGP 🇹🇷 🤍
+
+Puebla _GEO _USR Homenaje de que o _USR , no somos un país Comunista
+

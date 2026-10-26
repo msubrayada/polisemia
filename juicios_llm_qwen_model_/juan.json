@@ -1,0 +1,175 @@
+{
+  "palabra": "juan",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Nombre propio de una persona"
+    },
+    {
+      "id": "s2",
+      "glosa": "Nombre propio de un lugar geográfico o establecimiento"
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 7352,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 16114,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 62925,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 11695,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 24240,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6241,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 51434,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76653,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 47148,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63438,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8773,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 71300,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 14680,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 51044,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5615,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 47740,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 48792,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30455,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 3921,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 48864,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 6721,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 23797,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21351,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 74648,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75562,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67138,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 51039,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 23708,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35291,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 18008,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 10834,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 56188,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64422,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12182,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 4825,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 15584,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 70471,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62258,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38802,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 70561,
+      "sentido": "s1"
+    }
+  ]
+}

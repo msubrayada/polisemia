@@ -1,0 +1,179 @@
+{
+  "palabra": "tardes",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Saludo o expresión de cortesía durante la tarde."
+    },
+    {
+      "id": "s2",
+      "glosa": "Referencia al período de la tarde como tiempo del día."
+    },
+    {
+      "id": "s3",
+      "glosa": "Nombre propio (personas, programas, etc.)."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 8900,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75431,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25266,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 73975,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 46691,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 44092,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10003,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 37098,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 31099,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60447,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 70723,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68941,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 59293,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30641,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69976,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68528,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 73963,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10246,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 16673,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71048,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40367,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76652,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 76787,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75002,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 62994,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 43440,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13390,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12758,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69810,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 10198,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 18272,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 58901,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 65326,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 38968,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27629,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75986,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69174,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64345,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40193,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 36382,
+      "sentido": "s1"
+    }
+  ]
+}

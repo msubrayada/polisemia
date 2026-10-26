@@ -1,0 +1,171 @@
+{
+  "palabra": "ciudad",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Lugar urbano, área geográfica con población concentrada, incluyendo ciudades específicas o el concepto general de ciudad."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 41968,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 74090,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 30271,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 37956,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 36248,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 23951,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40762,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 18749,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 37694,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 29903,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 35875,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 17507,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 53036,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8608,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 41590,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 44772,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48236,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 77445,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71575,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 59662,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60350,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 37926,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 33716,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 44843,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69572,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 37267,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28424,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 5471,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 51153,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 45622,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 14551,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71860,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 14778,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12067,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 40221,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 26560,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 24081,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75013,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27498,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 14533,
+      "sentido": "s1"
+    }
+  ]
+}

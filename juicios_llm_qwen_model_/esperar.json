@@ -1,0 +1,179 @@
+{
+  "palabra": "esperar",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Aguardar o esperar algo en el tiempo, como esperar a que ocurra un evento o a que llegue alguien."
+    },
+    {
+      "id": "s2",
+      "glosa": "Tener expectativas o anticipar algo, a menudo con un matiz negativo, como esperar algo de alguien."
+    },
+    {
+      "id": "s3",
+      "glosa": "Demorar o tardar, como en la expresión 'no se hizo esperar', que significa que no hubo demora."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 63448,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 20670,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69717,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 71837,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54656,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 12341,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48518,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 49700,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 48438,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 71958,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8241,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 27946,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 3857,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 33436,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9311,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 12378,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 62771,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 54002,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 77221,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 32247,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 60531,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 6304,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 3125,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 2235,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 12686,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39861,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 23173,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 66640,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 74144,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 49917,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 75353,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 37620,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71400,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27004,
+      "sentido": "no_claro"
+    },
+    {
+      "id_tweet": 62226,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 41481,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 52969,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 19167,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 33310,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64321,
+      "sentido": "s2"
+    }
+  ]
+}

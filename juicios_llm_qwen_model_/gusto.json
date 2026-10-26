@@ -1,0 +1,179 @@
+{
+  "palabra": "gusto",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Expresión de cortesía, disposición o voluntad para hacer algo o al coincidir con alguien."
+    },
+    {
+      "id": "s2",
+      "glosa": "Expresión de disfrute, placer o alegría al ver, hacer o experimentar algo."
+    },
+    {
+      "id": "s3",
+      "glosa": "Expresión de preferencia o agrado, lo que a una persona le gusta."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 75709,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12904,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 31870,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 6252,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 65939,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 48332,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27738,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 27106,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 29304,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 31429,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 74827,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 12266,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 35330,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75349,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 8217,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 24891,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 63961,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 12467,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 1557,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 73164,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 53311,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 38471,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 67983,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 10572,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 24793,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 34666,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 25973,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 69728,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 48925,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 67527,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 20659,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 44149,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 59681,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 16222,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 75975,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 13382,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 36659,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 64094,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 57227,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 76735,
+      "sentido": "s1"
+    }
+  ]
+}

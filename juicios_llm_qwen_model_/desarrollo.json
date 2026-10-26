@@ -1,0 +1,199 @@
+{
+  "palabra": "desarrollo",
+  "sentidos": [
+    {
+      "id": "s1",
+      "glosa": "Desarrollo económico/social: Progreso en aspectos económicos, sociales, productivos, comerciales, agropecuarios, regionales, etc."
+    },
+    {
+      "id": "s2",
+      "glosa": "Desarrollo urbano/territorial: Planificación y crecimiento de áreas urbanas, ordenamiento territorial, desarrollo inmobiliario, etc."
+    },
+    {
+      "id": "s3",
+      "glosa": "Desarrollo personal/profesional: Crecimiento individual, desarrollo de habilidades, desarrollo de la personalidad, desarrollo profesional, etc."
+    },
+    {
+      "id": "s4",
+      "glosa": "Desarrollo de producto/proyecto: Proceso de creación o evolución de un producto, proyecto, software, juego, etc."
+    },
+    {
+      "id": "s5",
+      "glosa": "Desarrollo biológico/médico: Crecimiento o progresión de un organismo o enfermedad."
+    },
+    {
+      "id": "s6",
+      "glosa": "Desarrollo tecnológico: Progreso en tecnología, TICs, etc."
+    },
+    {
+      "id": "s7",
+      "glosa": "Desarrollo cultural/artístico: Progreso en arte, cultura, desarrollo humano, etc."
+    },
+    {
+      "id": "s8",
+      "glosa": "Desarrollo educativo: Progreso en educación, desarrollo educativo, etc."
+    }
+  ],
+  "asignaciones": [
+    {
+      "id_tweet": 9899,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 23304,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63307,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 14885,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 28125,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 8715,
+      "sentido": "s6"
+    },
+    {
+      "id_tweet": 53321,
+      "sentido": "s5"
+    },
+    {
+      "id_tweet": 77111,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 45111,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 63329,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 13458,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 69575,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 21423,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 52754,
+      "sentido": "s6"
+    },
+    {
+      "id_tweet": 8476,
+      "sentido": "s4"
+    },
+    {
+      "id_tweet": 45925,
+      "sentido": "s8"
+    },
+    {
+      "id_tweet": 48787,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 32791,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 5448,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 49719,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 9425,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 28120,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27324,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 74860,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 75575,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 73605,
+      "sentido": "s7"
+    },
+    {
+      "id_tweet": 52420,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 27704,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 39214,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 26892,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 14815,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 59111,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 68545,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 15228,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 7708,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 21512,
+      "sentido": "s8"
+    },
+    {
+      "id_tweet": 71489,
+      "sentido": "s3"
+    },
+    {
+      "id_tweet": 61874,
+      "sentido": "s2"
+    },
+    {
+      "id_tweet": 42004,
+      "sentido": "s1"
+    },
+    {
+      "id_tweet": 71577,
+      "sentido": "s4"
+    }
+  ]
+}
